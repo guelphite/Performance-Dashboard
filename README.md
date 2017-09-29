@@ -1,5 +1,5 @@
 # Performance Dashboard (The Count)
-The Count's purpose was to display online, the key performance metrics of various departments of the City of Guelph. Additional requirement included that it needed to
+The Count's purpose was to display online, the key performance metrics of various departments of the City of Guelph. Additional requirements included that it needed to
 be AODA compliant and responsive.
 
 ## Enviroment
