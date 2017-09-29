@@ -32,6 +32,8 @@ The Dashboard is comprised of dashlets, which are divided into categories using 
 
 Each Dashlet is comprised of a metric name, metric value, metric description, metric status icon and status text.
 
+Each Dashlet links to a factsheet page which gives more information about the metric.
+
 ### Dashboard
 The dashboard uses AJAX to retrieve an xml file and uses Javascript to display the data in the form of a dashlet.
 Each tab has a different xml file for each category.
