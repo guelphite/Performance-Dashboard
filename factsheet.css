@@ -1,0 +1,85 @@
+#primary-fullwidth {
+margin-top: 0px;
+}
+
+.factDash {
+position: relative;
+background-color: #eeeeee; 
+box-shadow: 0px 1px 1px 0px #e0e0e0;
+transition: box-shadow 0.3s ease-in-out;
+padding: 0px 0px 0px 10px;
+border: 1px solid rgb(221, 221, 221);
+border-radius:2px;
+}
+
+.metricName {
+padding-left:10px;
+font-weight: normal;
+margin-top: 24px !important;
+margin-bottom: 24px !important;
+display:inline-block;
+}
+
+.measureName{
+text-align: left;
+}
+
+.metricValue {
+font-size: 400% !important;
+text-align: left;
+font-weight: normal;
+margin-bottom:0px !important;
+}
+
+.metricStatus {
+font-size: 150%;
+}
+
+.metricStatusIcon {
+font-size:600%; 
+margin-top:5px;
+text-align: center;
+}
+
+.data-action-icon {
+    border-radius: 50%;
+    color: #fff;
+    height: 85px;
+    margin-top: 50px;
+    margin-bottom: -30px;
+    width: 90px;
+text-align: center;
+box-shadow: 2px 2px 2px 2px #e0e0e0;
+}
+
+
+.metricDescription{
+padding-left:10px !important;
+margin-top:24px  !important;
+margin-bottom:24px  !important;
+
+}
+
+@media (min-width: 992px) {
+    .col-md-offset-1-and-half {
+        margin-left: 4%; 
+    }
+
+}
+
+@media (min-width: 768px) {
+    .col-sm-offset-1-and-half {
+        margin-left: 4%; 
+    }
+}
+
+.dashlet {
+  opacity: 1;
+  display: block; 
+  height: auto;
+  backface-visibility: hidden;
+}
+
+.entry-header {
+display:none;
+}

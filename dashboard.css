@@ -1,0 +1,336 @@
+.sidenav {
+height: 100%;
+width: 0;
+position: fixed;
+z-index: 1;
+top: 0;
+left: 0;
+background-color: #111;
+overflow-x: hidden;
+overflow-y: scroll;
+transition: 0.1s;
+padding-top: 60px;
+}
+
+.sidenav a:hover {
+color: #f1f1f1;
+}
+
+.sidenav .closebtn {
+position: absolute;
+top: 0;
+right: 25px;
+font-size: 36px;
+margin-left: 50px;
+}
+
+.closebtn {
+color:#fff;
+}
+
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
+
+#primary-fullwidth {
+margin-top: 0px;
+}
+
+a.deco-none {
+color:#1b1b1b !important;
+text-decoration:none;
+font-weight: normal ;  
+}
+
+.link-span{ 
+position:absolute; 
+width:100%;
+height:100%;
+top:0;
+left: 0;
+z-index: 1;
+}  
+
+.container {
+position: relative;
+background-color: #eeeeee; 
+box-shadow: 0px 1px 1px 0px #e0e0e0;
+transition: box-shadow 0.3s ease-in-out;
+padding: 0px 0px 0px 0px;
+border: 1px solid rgb(221, 221, 221);
+border-radius:2px;
+cursor:pointer;
+
+}
+
+.container:hover{
+position: relative;
+box-shadow: 3px 3px 2px #9e9e9e; 
+}
+
+.container:focus{
+position: relative;
+box-shadow: 3px 3px 2px #9e9e9e; 
+
+}
+
+.top {
+color: #fff;
+margin-bottom: 10px;
+}
+
+.metricName {
+padding-left:10px;
+font-weight: normal;
+margin-top: 24px !important;
+margin-bottom: 24px !important;
+display:inline-block;
+font-size: 140% !important;
+}
+
+.metricValue {
+font-size: 300%;
+text-align: center;
+margin-bottom:-10px !important;
+opacity: 0.8 !important;
+}
+
+.metricStatus {
+padding-top:15px;
+font-size: 120%;
+text-align:left;
+}
+
+.metricUnit{
+text-align:center;
+font-size: 110%;
+padding: 10px 10px 20px 10px;
+color:#424242;
+
+}
+
+.metricStatusIcon {
+font-size:480%; 
+margin-top:5px;
+text-align:right;
+}
+
+.data-action-icon {
+border-radius: 50%;
+color: #fff;
+height: 80px;
+margin-top: 0px;
+margin-bottom: -30px;
+width: 80px;
+text-align: center;
+box-shadow: 2px 2px 2px 2px #e0e0e0;
+}
+
+.data-action-icon-sm {
+border-radius: 50%;
+color: #fff;
+height: 27px;
+margin-top: 2px;
+margin-bottom: 2px;
+width: 27px;
+text-align: center;
+box-shadow: 1px 1px 1px 1px #e0e0e0;
+display: inline-block; 
+float:left; 
+clear: left;
+margin-right: 10px;
+}
+
+.down-chevron{
+display: inline-block; 
+float:right; 
+clear: right;
+}
+
+.bottom {
+background-color:#E1E2E1;
+border-top: 1px solid rgb(221, 221, 221);
+}
+
+.metricDescription{
+padding-left:10px !important;
+margin-top:24px  !important;
+margin-bottom:24px  !important;
+font-size: 130%;
+}
+
+@media (min-width: 992px) {
+    .col-md-offset-1-and-half {
+        margin-left: 4%; 
+    }
+}
+
+@media (min-width: 468px) {
+.entry-content li, .active
+  {
+   margin-left: 0px !important;
+ }
+}
+
+@media (min-width: 768px) {
+    .col-sm-offset-1-and-half {
+        margin-left: 4%; 
+    }
+}
+.nav-justified {
+background-color: #1b1b1b !important; 
+opacity: 0.9;
+}
+
+.nav-justified a{
+color: #fff;
+}
+
+.nav-justified li{
+border:0;
+}
+
+.nav-pills>li.active>a, .nav-pills>li.active>a:focus, .nav-pills>li.active>a:hover {
+background-color: #fff !important; 
+color: #1b1b1b !important; 
+transition: .5s ease;
+}
+
+ul.nav.nav-pills.nav-justified li.active {
+background-color: #fff !important; 
+transition: .5s ease;
+}
+
+.nav.nav-pills>li:focus, .nav.nav-pills>li:hover {
+text-decoration: none;
+background-color: #fff;
+border-radius:0;
+transition: .5s ease;
+ }
+
+.nav>li>a:focus, .nav>li>a:hover {
+text-decoration: inherit; 
+background-color: inherit; 
+color:#1b1b1b;
+transition: .5s ease;
+}
+
+.nav>li>a:focus{
+color:#fff;
+}
+
+.nav>li:hover > a{
+color:#1b1b1b;
+transition: .5s ease;
+}
+
+.nav > li {
+margin-left: 0px !important;
+}
+
+.dashlet {
+opacity: 1;
+display: block; 
+height: auto;
+transition: .5s ease;
+backface-visibility: hidden;
+}
+
+.middle {
+transition: .5s ease;
+opacity: 0;
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%)
+}
+
+.container:hover .dashlet{
+opacity: 0.4;
+}
+
+.container:hover .middle {
+opacity: 1;
+}
+
+.text 
+ {
+background-color: #4CAF50;
+color: #fff;
+font-size: 16px;
+padding: 5px 5px;
+}
+
+.entry-header {
+display:none;
+}
+
+.bgimg-1 {
+background-image: url("http://guelph.staging.wpengine.com/wp-content/uploads/Downtown_slider.jpg");
+min-height: 100px;
+}
+
+.bgimg-1{
+position: relative;
+background-attachment: fixed;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.whiteblue-block {
+display:block;
+background-color: transparent;
+border:  2px solid #1976d2;
+width: 97%;
+padding-top: 10px;
+padding-bottom: 10px;
+padding-left:15px;
+padding-right:15px;
+font-weight:normal;
+color: #1976d2  !important;
+font-size:140%;
+cursor: default;
+transition: 400ms ease-in-out;
+margin: 0 auto;
+text-align:center;
+}
+
+.whiteblue-block:hover {
+text-decoration:none;
+background-color: #1976d2;
+color:   #fff !important;
+cursor: pointer;
+transition: 200ms ease-in-out;
+}
+
+.whitegreen-block {
+display:block;
+background-color: transparent;
+border:  2px solid #689f38;
+width: 97%;
+padding-top: 10px;
+padding-bottom: 10px;
+padding-left:15px;
+padding-right:15px;
+font-weight:normal;
+color: #689f38  !important;
+font-size:140%;
+cursor: default;
+transition: 400ms ease-in-out;
+margin: 0 auto;
+text-align:center;
+}
+
+.whitegreen-block:hover {
+text-decoration:none;
+background-color: #689f38;
+color:#fff !important;
+cursor: pointer;
+transition: 200ms ease-in-out;
+}
+
+
+
