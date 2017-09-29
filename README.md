@@ -21,8 +21,8 @@ The Count uses the folowing web technologies:
 ## Method
 
 Uses two types of pages:
-*Dashboard
-*Factsheet
+* Dashboard
+* Factsheet
 
 The Dashboard is comprised of dashlets, which are divided into categories using tabs.
 
