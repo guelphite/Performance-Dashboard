@@ -3,9 +3,9 @@ The Count's purpose was to display online, the key performance metrics of variou
 be AODA compliant and responsive.
 
 ## Enviroment
-CMS: Wordpress v4.8.1
-Theme: Guelph2012
-Framework:Bootstrap v3.3.7
+* CMS: Wordpress v4.8.1
+* Theme: Guelph2012
+* Framework:Bootstrap v3.3.7
 
 The dashboard was built onto a page on Guelph.ca and was not a sub domain. This means it inherits all of guelph.ca's capabilities and custom stylings.
 
