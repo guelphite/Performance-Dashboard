@@ -2,6 +2,10 @@
 The Count's purpose was to display online, the key performance metrics of various departments of the City of Guelph. Additional requirements included that it needed to
 be AODA compliant and responsive.
 
+## Website link
+
+[The Count](http://guelph.ca/thecount)
+
 ## Enviroment
 * CMS: Wordpress v4.8.1
 * Theme: Guelph2012
