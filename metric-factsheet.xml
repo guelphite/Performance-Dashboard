@@ -1,0 +1,1334 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<FactDataTable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<FactDataRow id="gat01">
+		<TabName>Getting Around</TabName>
+		<TabID>1</TabID>
+		<MetricID>1</MetricID>
+		<MetricName>Active transportation</MetricName>
+		<MetricNamebg>#55504E</MetricNamebg>
+		<IndicatorIcon>image\transport.ico</IndicatorIcon>
+		<IndicatorMouseOverText>Getting Around / Transportation</IndicatorMouseOverText>
+		<MeasureName>Cycling master plan complete</MeasureName>
+		<MeasureNamebg>#CFCFD0</MeasureNamebg>
+		<MetricStatus>Collecting data</MetricStatus>
+		<MetricStatusbg>#0e55ac</MetricStatusbg>
+		<MetricStatusImage>cached</MetricStatusImage>
+		<MetricValue>58%</MetricValue>
+		<MetricValuebg>#0e55ac</MetricValuebg>
+		<ContactEmail>&lt;a href="mailto:tdm@guelph.ca"&gt;Transportation services&lt;/a&gt;</ContactEmail>
+		<URLFactSheet>factsheet-gat-01</URLFactSheet>
+		<Lastupdate>2017-09-05T00:00:00.000</Lastupdate>
+		<Goal>To complete the Cycling Master Plan’s cycling network by 2022.</Goal>
+		<MeasureDescription>Active transportation measures the number kilometers of bike lanes, paths and routes built according to the Cycling Master Plan’s proposed cycling network. The percentage reflects the amount of the cycling network achieved, as a measure of kilometres of infrastructure built, divided by the kilometres of infrastructure proposed plus what existed in 2013 when the plan was approved.&lt;br /&gt;Additional goals will be added to track growth in sidewalks and the off-road Active Transportation Network.</MeasureDescription>
+		<MeasureImportance>Active transportation infrastructure increases the number of trips made by bicycle, reduces the number of trips made by motorized vehicle and mitigates air pollution and climate change impacts. It also contributes to a healthy lifestyle and improved accessibility and mobility in the community.</MeasureImportance>
+		<ExplanationofPerformance>Growth in active transportation infrastructure most often reflects the Engineering program of work for road projects. Where specific high-priority active transportation infrastructure is needed, additional funding may be allocated (such as the Woodlawn Road multi-use paths). Infrastructure construction is completed spring through fall, each year.</ExplanationofPerformance>
+		<DidYouKnow>Cycling infrastructure construction is often tied to other major engineering projects, such as development projects, underground servicing, road reconstructions or road resurfacing. This allows for cost savings and makes efficient use of municipal resources and time.</DidYouKnow>
+		<UsefulLinks>&lt;a href="http://www.guelph.ca/bike"&gt;Cycling&lt;/a&gt;</UsefulLinks>
+		<DataTrackingTitle1/>
+		<DataTrackingTable1/>
+		<DataTrackingImage1/>
+	</FactDataRow>
+	<FactDataRow id="gat08">
+		<TabName>Getting Around</TabName>
+		<TabID>1</TabID>
+		<MetricID>8</MetricID>
+		<MetricName>Potholes</MetricName>
+		<MetricNamebg>#55504E</MetricNamebg>
+		<IndicatorIcon>image\transport.ico</IndicatorIcon>
+		<IndicatorMouseOverText>Getting Around / Transportation</IndicatorMouseOverText>
+		<MeasureName>Potholes filled &lt;abbr title="Year to date"&gt;YTD&lt;/abbr&gt; 2017</MeasureName>
+		<MeasureNamebg>#CFCFD0</MeasureNamebg>
+		<MetricStatus>Collecting data</MetricStatus>
+		<MetricStatusbg>#0e55ac</MetricStatusbg>
+		<MetricStatusImage>cached</MetricStatusImage>
+		<MetricValue>11,000</MetricValue>
+		<MetricValuebg>#0e55ac</MetricValuebg>
+		<ContactEmail>&lt;a href="mailto:operations@guelph.ca"&gt;Operations&lt;/a&gt;</ContactEmail>
+		<URLFactSheet>factsheet-gat-08</URLFactSheet>
+		<Lastupdate>2017-09-11T00:00:00.000</Lastupdate>
+		<Goal>To measure the number of potholes filled annually.</Goal>
+		<MeasureDescription>Under the Minimum Maintenance Guidelines, the City must respond to and repair potholes. The number of potholes filled is measured based upon the amount of asphalt used to fill them.</MeasureDescription>
+		<MeasureImportance>Understanding the number of potholes filled year over year will assist in determining the life cycle of the City's roads and help plan for larger repairs or road resurfacing.</MeasureImportance>
+		<ExplanationofPerformance>The schedule for pothole repairs varies seasonally and may be interrupted by inclement weather. While potholes are repaired year round a significantly greater proportion of potholes are filled during the Spring months.</ExplanationofPerformance>
+		<DidYouKnow>The City uses recycled asphalt to fill potholes.  This saves money and the environment.</DidYouKnow>
+	</FactDataRow>
+	<FactDataRow id="gat06">
+		<TabName>Getting Around</TabName>
+		<TabID>1</TabID>
+		<MetricID>6</MetricID>
+		<MetricName>Street sweeping</MetricName>
+		<MetricNamebg>#536E30</MetricNamebg>
+		<IndicatorIcon>image\transport.ico</IndicatorIcon>
+		<IndicatorMouseOverText>Getting Around / Transportation</IndicatorMouseOverText>
+		<MeasureName>Completed by June 1 for 2017</MeasureName>
+		<MeasureNamebg>#536E30</MeasureNamebg>
+		<MetricStatus>Meets or Exceeds Target</MetricStatus>
+		<MetricStatusbg>#536E30</MetricStatusbg>
+		<MetricStatusImage>done</MetricStatusImage>
+		<MetricValue>100%</MetricValue>
+		<MetricValuebg>#536E30</MetricValuebg>
+		<ContactEmail>&lt;a href="mailto:operations@guelph.ca"&gt;Operations&lt;/a&gt;</ContactEmail>
+		<URLFactSheet>factsheet-gat-06</URLFactSheet>
+		<Lastupdate>2017-09-11T00:00:00.000</Lastupdate>
+		<Goal>Spring street sweeping is completed for 100% of the neighbourhood roads and alleys by June 1 each year. During this period approximately 1,200 tonnes of sand and debris is cleaned from roads.</Goal>
+		<MeasureDescription>Every spring, all City streets are cleared of sand and debris that have accumulated over the winter. Street sweeping begins in early April and is scheduled to wrap up by June 1, weather permitting.</MeasureDescription>
+		<MeasureImportance>Spring street sweeping improves safety and mobility by removing sanding materials and other debris that have accumulated on roads and along major sidewalks and boulevards over the winter.</MeasureImportance>
+		<ExplanationofPerformance>Spring street sweeping activity varies seasonally and may be interrupted by inclement weather. Spring clean-up generally begins in mid-April each year.</ExplanationofPerformance>
+		<DidYouKnow>Recyclable winter abrasive material is collected for future winter season use.</DidYouKnow>
+		<UsefulLinks>&lt;a href="http://www.guelph.ca/maps"&gt;Street Sweeping Map&lt;/a&gt;</UsefulLinks>
+	</FactDataRow>
+	<FactDataRow id="gat07">
+		<TabName>Getting Around</TabName>
+		<TabID>1</TabID>
+		<MetricID>7</MetricID>
+		<MetricName>Residential plough outs</MetricName>
+		<MetricNamebg>#55504E</MetricNamebg>
+		<IndicatorIcon>image\transport.ico</IndicatorIcon>
+		<IndicatorMouseOverText>Getting Around / Transportation</IndicatorMouseOverText>
+		<MeasureName>No winter snow events have been declared</MeasureName>
+		<MeasureNamebg>#CFCFD0</MeasureNamebg>
+		<MetricStatus>Collecting data</MetricStatus>
+		<MetricStatusbg>#0e55ac</MetricStatusbg>
+		<MetricStatusImage>cached</MetricStatusImage>
+		<MetricValue>0</MetricValue>
+		<MetricValuebg>#0e55ac</MetricValuebg>
+		<ContactEmail>&lt;a href="mailto:operations@guelph.ca"&gt;Operations&lt;/a&gt;</ContactEmail>
+		<URLFactSheet>factsheet-gat-07</URLFactSheet>
+		<Lastupdate>2017-09-11T00:00:00.000</Lastupdate>
+		<Goal>Effective November 1st, 2017 that within 48 hours of a winter snow event as declared by the Operations Department, all residential roadways are to be ploughed at least once.</Goal>
+		<MeasureDescription>The completion rate will be based on the number of kilometres of residential roadway and the kilometres of residential roadways ploughed by City or contract staff within the designated 48 hour time frame.</MeasureDescription>
+		<MeasureImportance>Timely completion of  snow plough outs help ensure public safety and quickly return the city to normal economic and social activities.</MeasureImportance>
+		<ExplanationofPerformance>Ability to complete a residential plough out within 48 hours may be interrupted by a subsequent signficant winter storm.  Should a winter storm occur during a residential plough out, the plough out may be rescheduled to occur after the signifcant snowfall has ended.</ExplanationofPerformance>
+	</FactDataRow>
+	<FactDataRow id="gat05">
+		<TabName>Getting Around</TabName>
+		<TabID>1</TabID>
+		<MetricID>5</MetricID>
+		<MetricName>Sidewalk inspections</MetricName>
+		<MetricNamebg>#0e55ac</MetricNamebg>
+		<IndicatorIcon>image\transport.ico</IndicatorIcon>
+		<IndicatorMouseOverText>Getting Around / Transportation</IndicatorMouseOverText>
+		<MeasureName>Sidewalks inspected</MeasureName>
+		<MeasureNamebg>#0e55ac</MeasureNamebg>
+		<MetricStatus>Collecting data</MetricStatus>
+		<MetricStatusbg>#0e55ac</MetricStatusbg>
+		<MetricStatusImage>cached</MetricStatusImage>
+		<MetricValue>80%</MetricValue>
+		<MetricValuebg>#0e55ac</MetricValuebg>
+		<ContactEmail>&lt;a href="mailto:operations@guelph.ca"&gt;Operations&lt;/a&gt;</ContactEmail>
+		<URLFactSheet>factsheet-gat-05</URLFactSheet>
+		<Lastupdate>2017-09-11T00:00:00.000</Lastupdate>
+		<Goal>Within 16 months all City sidewalks must be checked and all step discontinuities identified and marked.</Goal>
+		<MeasureDescription>The completion rate is based on the actual number of kilometres of sidewalks maintained by the City (698 km) and the number of kilometres of sidewalks checked by staff.</MeasureDescription>
+		<MeasureImportance>Ensuring all City maintained sidewalks are checked and all step discontinuities are identified will help ensure public safety and remove barriers for pedestrians, especially those with mobility constraints.</MeasureImportance>
+		<ExplanationofPerformance>Sidewalk inspection takes place between May and October to take advantage of the best weather conditions possible.</ExplanationofPerformance>
+		<DidYouKnow>Surface discontinuities greater than 2 centimetres must be treated within 14 days.</DidYouKnow>
+	</FactDataRow>
+	<FactDataRow id="gat02">
+		<TabName>Getting Around</TabName>
+		<TabID>1</TabID>
+		<MetricID>2</MetricID>
+		<MetricName>Transit ridership</MetricName>
+		<MetricNamebg>#55504E</MetricNamebg>
+		<IndicatorIcon>image\transport.ico</IndicatorIcon>
+		<IndicatorMouseOverText>Getting Around / Transportation</IndicatorMouseOverText>
+		<MeasureName>Number of riders</MeasureName>
+		<MeasureNamebg>#D07423</MeasureNamebg>
+		<MetricStatus>Near Target</MetricStatus>
+		<MetricStatusbg>#D07423</MetricStatusbg>
+		<MetricStatusImage>forward</MetricStatusImage>
+		<MetricValue>3,310,069</MetricValue>
+		<MetricValuebg>#D07423</MetricValuebg>
+		<ContactEmail>&lt;a href="mailto:transit@guelph.ca"&gt;Guelph Transit&lt;/a&gt;</ContactEmail>
+		<URLFactSheet>factsheet-gat-02</URLFactSheet>
+		<Lastupdate>2017-09-08T00:00:00.000</Lastupdate>
+		<Goal>Track transit ridership</Goal>
+		<MeasureDescription>Number of passenger trips using Guelph Transit monthly</MeasureDescription>
+		<MeasureImportance>This measure monitors performance and helps to identify and respond to ridership trends. Guelph's provincial gas tax funding is based on a formula that includes ridership and population data. As ridership grows, additional subsidies can be realized.</MeasureImportance>
+		<ExplanationofPerformance>Count of passenger ridership on the bus. Target is the 3 year average ridership. Variance is the difference between current year actuals and target.</ExplanationofPerformance>
+		<DidYouKnow>This metric helped identify new opportunities to improve Guelph Transit routes through the route realignment launched on September 3, 2017.</DidYouKnow>
+		<UsefulLinks>&lt;a href="http://www.guelphtransit.ca"&gt;Guelph Transit&lt;/a&gt;</UsefulLinks>
+		<DataTrackingTitle1>Conventional Ridership</DataTrackingTitle1>
+		<DataTrackingTable1>&lt;div class="table-responsive"&gt;
+&lt;table class="table table-bordered table-striped table-hover table-condensed"&gt;
+&lt;tbody&gt;
+&lt;thead&gt;&lt;tr&gt;
+&lt;th scope="col"&gt;&lt;/th&gt;
+&lt;th scope="col"&gt;Jan&lt;/th&gt;
+&lt;th scope="col"&gt;Feb&lt;/th&gt;
+&lt;th scope="col"&gt;Mar&lt;/th&gt;
+&lt;th scope="col"&gt;Apr&lt;/th&gt;
+&lt;th scope="col"&gt;May&lt;/th&gt;
+&lt;th scope="col"&gt;Jun&lt;/th&gt;
+&lt;th scope="col"&gt;Jul&lt;/th&gt;
+&lt;th scope="col"&gt;Aug&lt;/th&gt;
+&lt;th scope="col"&gt;Sep&lt;/th&gt;
+&lt;th scope="col"&gt;Oct&lt;/th&gt;
+&lt;th scope="col"&gt;Nov&lt;/th&gt;
+&lt;th scope="col"&gt;Dec&lt;/th&gt;
+&lt;th scope="col"&gt;YTD Avg&lt;/th&gt;
+&lt;/tr&gt;&lt;/thead&gt;
+&lt;tr&gt;
+&lt;td&gt;2017 Actual&lt;/td&gt;&lt;td&gt;611,460&lt;/td&gt;&lt;td&gt;542,712&lt;/td&gt;&lt;td&gt;695,216&lt;/td&gt;&lt;td&gt;470,708&lt;/td&gt;&lt;td&gt;349,814&lt;/td&gt;&lt;td&gt;338,905&lt;/td&gt;&lt;td&gt;301,254&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;3,310,069&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;2017 Target&lt;/td&gt;&lt;td&gt;685,132&lt;/td&gt;&lt;td&gt;601,389&lt;/td&gt;&lt;td&gt;749,412&lt;/td&gt;&lt;td&gt;523,869&lt;/td&gt;&lt;td&gt;343,158&lt;/td&gt;&lt;td&gt;322,273&lt;/td&gt;&lt;td&gt;263,090&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;3,488,323&lt;/td&gt;&lt;/tr&gt;
+ &lt;tr&gt;&lt;td&gt;2016 Actual&lt;/td&gt;&lt;td&gt;649,119&lt;/td&gt;&lt;td&gt;602,391&lt;/td&gt;&lt;td&gt;697,332&lt;/td&gt;&lt;td&gt;554,730&lt;/td&gt;&lt;td&gt;318,508&lt;/td&gt;&lt;td&gt;315,324&lt;/td&gt;&lt;td&gt;286,812&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;3,424,216&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Variance&lt;/td&gt;&lt;td&gt;-73,672 &lt;/td&gt;&lt;td&gt;-58,677 &lt;/td&gt;&lt;td&gt;-54,196 &lt;/td&gt;&lt;td&gt;-53,161 &lt;/td&gt;&lt;td&gt;6,656 &lt;/td&gt;&lt;td&gt;16,632 &lt;/td&gt;&lt;td&gt;38,164 &lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;-178,254 &lt;/td&gt;&lt;/tr&gt;
+ &lt;tr&gt;&lt;td&gt;Variance %&lt;/td&gt;&lt;td&gt;-11%&lt;/td&gt;&lt;td&gt;-10%&lt;/td&gt;&lt;td&gt;-7%&lt;/td&gt;&lt;td&gt;-10%&lt;/td&gt;&lt;td&gt;2%&lt;/td&gt;&lt;td&gt;5%&lt;/td&gt;&lt;td&gt;15%&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;-5%&lt;/td&gt;&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;/div&gt;</DataTrackingTable1>
+		<DataTrackingImage1/>
+	</FactDataRow>
+	<FactDataRow id="gat03">
+		<TabName>Getting Around</TabName>
+		<TabID>1</TabID>
+		<MetricID>3</MetricID>
+		<MetricName>On-time bus performance</MetricName>
+		<MetricNamebg>#55504E</MetricNamebg>
+		<IndicatorIcon>image\transport.ico</IndicatorIcon>
+		<IndicatorMouseOverText>Getting Around / Transportation</IndicatorMouseOverText>
+		<MeasureName>Percent arrival time of buses compared to schedule</MeasureName>
+		<MeasureNamebg>#55504E</MeasureNamebg>
+		<MetricStatus>Meets or Exceeds Target</MetricStatus>
+		<MetricStatusbg>#536E30</MetricStatusbg>
+		<MetricStatusImage>done</MetricStatusImage>
+		<MetricValue>92%</MetricValue>
+		<MetricValuebg>#536E30</MetricValuebg>
+		<ContactEmail>&lt;a href="mailto:transit@guelph.ca"&gt;Guelph Transit&lt;/a&gt;</ContactEmail>
+		<URLFactSheet>factsheet-gat-03</URLFactSheet>
+		<Lastupdate>2017-09-08T00:00:00.000</Lastupdate>
+		<Goal>To measure the arrival time of buses against the schedule</Goal>
+		<MeasureDescription>Track actual bus arrival times to scheduled arrival times on each route through tracking systems installed on all City buses.</MeasureDescription>
+		<MeasureImportance>Transit provides reliable service for customers. This measure allows Transit to monitor the performance of the transit system by identifying and responding to variances to improve on time performance for customers.</MeasureImportance>
+		<ExplanationofPerformance>Provides reliable service to customers.</ExplanationofPerformance>
+		<DidYouKnow>Guelph buses are equipped with a notification system which identifies if a bus is running on time, ahead or behind schedule. This information is monitored and used to quickly get a bus back on schedule.</DidYouKnow>
+		<UsefulLinks>&lt;a href="http://www.guelphtransit.ca"&gt;Guelph Transit&lt;/a&gt;</UsefulLinks>
+		<DataTrackingTitle1>On-time Performance</DataTrackingTitle1>
+		<DataTrackingTable1>&lt;div class="table-responsive"&gt;
+&lt;table class="table table-bordered table-striped table-hover table-condensed"&gt;
+&lt;thead&gt;&lt;tr&gt;&lt;th&gt;&lt;/th&gt;&lt;th&gt;Jan&lt;/th&gt;&lt;th&gt;Feb&lt;/th&gt;&lt;th&gt;Mar&lt;/th&gt;&lt;th&gt;Apr&lt;/th&gt;&lt;th&gt;May&lt;/th&gt;&lt;th&gt;Jun&lt;/th&gt;&lt;th&gt;Jul&lt;/th&gt;&lt;th&gt;Aug&lt;/th&gt;&lt;th&gt;Sep&lt;/th&gt;&lt;th&gt;Oct&lt;/th&gt;&lt;th&gt;Nov&lt;/th&gt;&lt;th&gt;Dec&lt;/th&gt;&lt;th&gt;YTD Avg&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;2017 Actual&lt;/td&gt;&lt;td&gt;93%&lt;/td&gt;&lt;td&gt;93%&lt;/td&gt;&lt;td&gt;93%&lt;/td&gt;&lt;td&gt;92%&lt;/td&gt;&lt;td&gt;90%&lt;/td&gt;&lt;td&gt;91%&lt;/td&gt;&lt;td&gt;92%&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;92%&lt;/td&gt;&lt;/tr&gt;
+ &lt;tr&gt;&lt;td&gt;2017 Target&lt;/td&gt;&lt;td&gt;91%&lt;/td&gt;&lt;td&gt;91%&lt;/td&gt;&lt;td&gt;91%&lt;/td&gt;&lt;td&gt;91%&lt;/td&gt;&lt;td&gt;91%&lt;/td&gt;&lt;td&gt;91%&lt;/td&gt;&lt;td&gt;91%&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;91%&lt;/td&gt;&lt;/tr&gt;
+ &lt;tr&gt;&lt;td&gt;2016 Actual&lt;/td&gt;&lt;td&gt;86%&lt;/td&gt;&lt;td&gt;85%&lt;/td&gt;&lt;td&gt;85%&lt;/td&gt;&lt;td&gt;84%&lt;/td&gt;&lt;td&gt;84%&lt;/td&gt;&lt;td&gt;84%&lt;/td&gt;&lt;td&gt;84%&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;85%&lt;/td&gt;&lt;/tr&gt;
+ &lt;tr&gt;&lt;td&gt;Variance&lt;/td&gt;&lt;td&gt;2%&lt;/td&gt;&lt;td&gt;2%&lt;/td&gt;&lt;td&gt;2%&lt;/td&gt;&lt;td&gt;1%&lt;/td&gt;&lt;td&gt;-1%&lt;/td&gt;&lt;td&gt;0%&lt;/td&gt;&lt;td&gt;1%&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;1%&lt;/td&gt;&lt;/tr&gt;
+ &lt;tr&gt;&lt;td&gt;Variance %&lt;/td&gt;&lt;td&gt;2%&lt;/td&gt;&lt;td&gt;2%&lt;/td&gt;&lt;td&gt;2%&lt;/td&gt;&lt;td&gt;1%&lt;/td&gt;&lt;td&gt;-1%&lt;/td&gt;&lt;td&gt;0%&lt;/td&gt;&lt;td&gt;1%&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;1%&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Q Average&lt;/td&gt;
+&lt;td colspan="3"&gt;93%&lt;/td&gt;
+&lt;td colspan="3"&gt;91%&lt;/td&gt;
+&lt;td colspan="3"&gt;&amp;nbsp;&lt;/td&gt;&lt;td colspan="3"&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;</DataTrackingTable1>
+		<DataTrackingImage1/>
+	</FactDataRow>
+	<FactDataRow id="gat04">
+		<TabName>Getting Around</TabName>
+		<TabID>1</TabID>
+		<MetricID>4</MetricID>
+		<MetricName>Transit revenue to cost</MetricName>
+		<MetricNamebg>#55504E</MetricNamebg>
+		<IndicatorIcon>image\transport.ico</IndicatorIcon>
+		<IndicatorMouseOverText>Getting Around / Transportation</IndicatorMouseOverText>
+		<MeasureName>Ratio of 2016 Revenue To Cost</MeasureName>
+		<MeasureNamebg>#55504E</MeasureNamebg>
+		<MetricStatus>Meets or Exceeds Target</MetricStatus>
+		<MetricStatusbg>#536E30</MetricStatusbg>
+		<MetricStatusImage>done</MetricStatusImage>
+		<MetricValue>56%</MetricValue>
+		<MetricValuebg>#536E30</MetricValuebg>
+		<ContactEmail>&lt;a href="mailto:transit@guelph.ca"&gt;Guelph Transit&lt;/a&gt;</ContactEmail>
+		<URLFactSheet>factsheet-gat-04</URLFactSheet>
+		<Lastupdate>2017-09-08T00:00:00.000</Lastupdate>
+		<Goal>To track actual revenue to cost ratio against budgeted ratio</Goal>
+		<MeasureDescription>Track actual revenue to cost ratio  against budgeted ratio annually</MeasureDescription>
+		<MeasureImportance>The revenue to cost ratio is one measure to ensure Transit is on budget. This measure is also used as a comparator to other municipal transit systems.</MeasureImportance>
+		<ExplanationofPerformance>Transit provides reliable service within budget constraints.</ExplanationofPerformance>
+		<DidYouKnow>Did you know that the Canadian Urban Transit Association applies all indirect costs to conventional buses.</DidYouKnow>
+		<UsefulLinks>&lt;a href="http://www.guelphtransit.ca"&gt;Guelph Transit&lt;/a&gt;</UsefulLinks>
+		<DataTrackingTitle1>Revenue to Cost Ratio</DataTrackingTitle1>
+		<DataTrackingTable1>&lt;table class="table table-bordered table-striped table-hover table-condensed"&gt;
+&lt;thead&gt;&lt;tr&gt;&lt;th&gt;&lt;/th&gt;&lt;th&gt;2013&lt;/th&gt;&lt;th&gt;2014&lt;/th&gt;&lt;th&gt;2015&lt;/th&gt;&lt;th&gt;2016&lt;/th&gt;&lt;th&gt;2017&lt;/th&gt;&lt;th&gt;YTD Avg&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;Actual&lt;/td&gt;&lt;td&gt;57%&lt;/td&gt;&lt;td&gt;58%&lt;/td&gt;&lt;td&gt;58%&lt;/td&gt;&lt;td&gt;56%&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;57%&lt;/td&gt;&lt;/tr&gt;
+ &lt;tr&gt;&lt;td&gt;Target&lt;/td&gt;&lt;td&gt;55%&lt;/td&gt;&lt;td&gt;51%&lt;/td&gt;&lt;td&gt;57%&lt;/td&gt;&lt;td&gt;58%&lt;/td&gt;&lt;td&gt;55%&lt;/td&gt;&lt;td&gt;55%&lt;/td&gt;&lt;/tr&gt;
+ &lt;tr&gt;&lt;td&gt;Benchmark&lt;/td&gt;&lt;td&gt;50%&lt;/td&gt;&lt;td&gt;50%&lt;/td&gt;&lt;td&gt;50%&lt;/td&gt;&lt;td&gt;50%&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;50%&lt;/td&gt;&lt;/tr&gt;
+ &lt;tr&gt;&lt;td&gt;Variance&lt;/td&gt;&lt;td&gt;-2%&lt;/td&gt;&lt;td&gt;-7%&lt;/td&gt;&lt;td&gt;-1%&lt;/td&gt;&lt;td&gt;2%&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;-2%&lt;/td&gt;&lt;/tr&gt;
+ &lt;tr&gt;&lt;td&gt;Variance %&lt;/td&gt;&lt;td&gt;-4%&lt;/td&gt;&lt;td&gt;-12%&lt;/td&gt;&lt;td&gt;-2%&lt;/td&gt;&lt;td&gt;4%&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;-3%&lt;/td&gt;&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</DataTrackingTable1>
+		<DataTrackingImage1/>
+	</FactDataRow>
+	<FactDataRow id="liv06">
+		<TabName>Livability</TabName>
+		<TabID>2</TabID>
+		<MetricID>6</MetricID>
+		<MetricName>Quality of life</MetricName>
+		<MetricNamebg>#55504E</MetricNamebg>
+		<IndicatorIcon>image\livability.ico</IndicatorIcon>
+		<IndicatorMouseOverText>Livability and sustainability</IndicatorMouseOverText>
+		<MeasureName>Residents who perceive good to very good quality of life in Guelph</MeasureName>
+		<MeasureNamebg>#CFCFD0</MeasureNamebg>
+		<MetricStatus>Collecting data</MetricStatus>
+		<MetricStatusbg>#0e55ac</MetricStatusbg>
+		<MetricStatusImage>cached</MetricStatusImage>
+		<MetricValue>97%</MetricValue>
+		<MetricValuebg>#0e55ac</MetricValuebg>
+		<ContactEmail>&lt;a href="mailto:cao@guelph.ca"&gt;Office of the CAO&lt;/a&gt;</ContactEmail>
+		<URLFactSheet>factsheet-liv-06</URLFactSheet>
+		<Lastupdate>2017-09-11T00:00:00.000</Lastupdate>
+		<Goal>Through the delivery of service excellence, the City of Guelph strives to support a good quality of life for its residents.</Goal>
+		<MeasureDescription>City of Guelph residents were surveyed in 2017 on the question "How would you rate the overall quality of life in the City of Guelph today?" </MeasureDescription>
+		<MeasureImportance>Quality of life is a good indicator of how people feel about general well-being. It considers life satisfaction, including everything from physical health, family, education, employment, wealth, religious beliefs, finance and the environment.</MeasureImportance>
+		<ExplanationofPerformance>Since 2011, there has been a six-point increase in the proportion of residents who indicate the quality of life in Guelph has improved and a six-point drop in the number who think it has declined.</ExplanationofPerformance>
+		<DidYouKnow>The perceived overall quality of life in the City of Guelph is on par with the national norm, but the proportion who say it is "very good" is 7 points higher  than the national norm (52% vs. 45%).</DidYouKnow>
+	</FactDataRow>
+	<FactDataRow id="liv07">
+		<TabName>Livability</TabName>
+		<TabID>2</TabID>
+		<MetricID>7</MetricID>
+		<MetricName>Proud to be from Guelph</MetricName>
+		<MetricNamebg>#55504E</MetricNamebg>
+		<IndicatorIcon>image\livability.ico</IndicatorIcon>
+		<IndicatorMouseOverText>Livability and sustainability</IndicatorMouseOverText>
+		<MeasureName>Residents who are proud to say they are from Guelph</MeasureName>
+		<MeasureNamebg>#CFCFD0</MeasureNamebg>
+		<MetricStatus>Collecting data</MetricStatus>
+		<MetricStatusbg>#0e55ac</MetricStatusbg>
+		<MetricStatusImage>cached</MetricStatusImage>
+		<MetricValue>94%</MetricValue>
+		<MetricValuebg>#0e55ac</MetricValuebg>
+		<ContactEmail>&lt;a href="mailto:cao@guelph.ca"&gt;Office of the CAO&lt;/a&gt;</ContactEmail>
+		<URLFactSheet>factsheet-liv-07</URLFactSheet>
+		<Lastupdate>2017-09-11T00:00:00.000</Lastupdate>
+		<Goal>The City of Guelph contributes to local pride of place.</Goal>
+		<MeasureDescription>City of Guelph residents were surveyed in 2017 on the question, "Please rate the extent to which you agree or disagree with the following statement 'I am proud to say I am from Guelph'."</MeasureDescription>
+		<MeasureImportance>Measuring pride in people saying they are from Guelph helps to develop the City’s identity.</MeasureImportance>
+		<ExplanationofPerformance>This number will be used to develop a baseline for future comparison.</ExplanationofPerformance>
+		<DidYouKnow>It doesn't matter where in Guelph people live when measuring pride in their city. People from every ward in the city felt similar about being proud to be a Guelphite. </DidYouKnow>
+	</FactDataRow>
+	<FactDataRow id="liv08">
+		<TabName>Livability</TabName>
+		<TabID>2</TabID>
+		<MetricID>8</MetricID>
+		<MetricName>Sense of belonging</MetricName>
+		<MetricNamebg>#55504E</MetricNamebg>
+		<IndicatorIcon>image\livability.ico</IndicatorIcon>
+		<IndicatorMouseOverText>Livability and sustainability</IndicatorMouseOverText>
+		<MeasureName>Percent of residents who have a strong sense of belonging to Guelph</MeasureName>
+		<MeasureNamebg>#CFCFD0</MeasureNamebg>
+		<MetricStatus>Collecting data</MetricStatus>
+		<MetricStatusbg>#0e55ac</MetricStatusbg>
+		<MetricStatusImage>cached</MetricStatusImage>
+		<MetricValue>88</MetricValue>
+		<MetricValuebg>#0e55ac</MetricValuebg>
+		<ContactEmail>&lt;a href="mailto:cao@guelph.ca"&gt;Office of the CAO&lt;/a&gt;</ContactEmail>
+		<URLFactSheet>factsheet-liv-08</URLFactSheet>
+		<Lastupdate>2017-09-11T00:00:00.000</Lastupdate>
+		<Goal>The City of Guelph provides programs and services that promote a sense of belonging.</Goal>
+		<MeasureDescription>City of Guelph residents were surveyed in 2017 on the question, "Please rate the extent to which you agree or disagree with the following statement "I have a strong sense of belonging to Guelph."</MeasureDescription>
+		<MeasureImportance>Feeling that you belong is an important part of one's overall wellbeing.</MeasureImportance>
+		<ExplanationofPerformance>This number will be used to develop a baseline for future comparison.</ExplanationofPerformance>
+		<DidYouKnow>It doesn't matter where in Guelph people live when measuring their sense of belonging. People from every ward in the city felt similar about their sense of belonging to Guelph. </DidYouKnow>
+	</FactDataRow>
+	<FactDataRow id="liv01">
+		<TabName>Livability</TabName>
+		<TabID>2</TabID>
+		<MetricID>1</MetricID>
+		<MetricName>River Run Centre usage</MetricName>
+		<MetricNamebg>#55504E</MetricNamebg>
+		<IndicatorIcon>image\livability.ico</IndicatorIcon>
+		<IndicatorMouseOverText>Livability and sustainability</IndicatorMouseOverText>
+		<MeasureName>Events in 2016</MeasureName>
+		<MeasureNamebg>#CFCFD0</MeasureNamebg>
+		<MetricStatus>Collecting data</MetricStatus>
+		<MetricStatusbg>#0e55ac</MetricStatusbg>
+		<MetricStatusImage>cached</MetricStatusImage>
+		<MetricValue>393</MetricValue>
+		<MetricValuebg>#0e55ac</MetricValuebg>
+		<ContactEmail>&lt;a href="mailto:info@riverrun.ca"&gt;River Run Centre&lt;/a&gt;</ContactEmail>
+		<URLFactSheet>factsheet-liv-01</URLFactSheet>
+		<Lastupdate>2017-09-05T00:00:00.000</Lastupdate>
+		<Goal>To provide a venue that supports a wide array of event types including local groups, special events for community and professional artists.</Goal>
+		<MeasureDescription>Supporting events in the Main Stage Theatre, Co-operators Hall (Theatre) and Canada Company Hall (lobby space). Facility offers technical, ticketing and front of house services. Front of House is supported by over 250 active volunteers. With the various spaces, there is frequently the ability to host multiple events on the same day.</MeasureDescription>
+		<MeasureImportance>The arts enrich the lives of residents and grow the reputation of Guelph as a lively cultural destination for visitors.  All ages can participate, either as artists, audience members, volunteers, donors or sponsors.  Participating in culture can benefit individuals in many different ways. Experiences of laughter or compassion add value to everyday life and balance stress or pressures from life.</MeasureImportance>
+		<ExplanationofPerformance>Number of events tracked and reported annually.  Peak times include December and March through June.</ExplanationofPerformance>
+		<DidYouKnow>Thanks to the generosity of the Linamar corporation and Canadian Heritage, over 14,000 Guelph and Wellington Grade 1 to 8 students attend performances twice a year. On average, there are 600 dance numbers over a three day dance competition at River Run Centre held seven times a year featuring dance solos to large group performances.</DidYouKnow>
+		<UsefulLinks>&lt;a href="http://www.riverrun.ca"&gt;River Run Centre&lt;/a&gt;</UsefulLinks>
+		<DataTrackingTitle1/>
+		<DataTrackingTable1/>
+		<DataTrackingImage1/>
+	</FactDataRow>
+	<FactDataRow id="liv02">
+		<TabName>Livability</TabName>
+		<TabID>2</TabID>
+		<MetricID>2</MetricID>
+		<MetricName>Sleeman Centre usage</MetricName>
+		<MetricNamebg>#55504E</MetricNamebg>
+		<IndicatorIcon>image\livability.ico</IndicatorIcon>
+		<IndicatorMouseOverText>Livability and sustainability</IndicatorMouseOverText>
+		<MeasureName>Hours of usage in 2016</MeasureName>
+		<MeasureNamebg>#CFCFD0</MeasureNamebg>
+		<MetricStatus>Collecting data</MetricStatus>
+		<MetricStatusbg>#0e55ac</MetricStatusbg>
+		<MetricStatusImage>cached</MetricStatusImage>
+		<MetricValue>2,186</MetricValue>
+		<MetricValuebg>#0e55ac</MetricValuebg>
+		<ContactEmail>&lt;a href="mailto:fanexperience@guelph.ca"&gt;Sleeman Centre&lt;/a&gt;</ContactEmail>
+		<URLFactSheet>factsheet-liv-02</URLFactSheet>
+		<Lastupdate>2017-09-05T00:00:00.000</Lastupdate>
+		<Goal>To promote and encourage  year round usage of the Sleeman Centre.</Goal>
+		<MeasureDescription>Supporting ice and non-ice events, the Sleeman Centre is open for games, concerts, ceremonies, practices and much more. Standard ice time games allow for up to 5000 attendees, while concerts seat 4800+ attendees (depending upon seating configuration). Sleeman Centre manages a restaurant, concession stands and full service suites.</MeasureDescription>
+		<MeasureImportance>Sleeman Centre offers the amenities of a recreation centre and a full service game / special event/concert facility. It offers the best of both to the community. Flexibility to accommodate various event configurations is a key component of our operation. Hours of usage showcases community involvement and support of the centre.</MeasureImportance>
+		<ExplanationofPerformance>Hours of usage tracked annually.  Sleeman Centre saw 2186 hours in 2016.  Peak times are Friday nights through Sunday nights in ice season (September to April).  Paid admissions exceed 150,000 patrons annually.</ExplanationofPerformance>
+		<DidYouKnow>Employees flood the ice, maintain the facility and assist with special event set-up. On average it takes approximately 96 hours to make ice the first time each season. In addition to OHL, GOJHL and public ice usage, the facility hosts approximately 7 legacy events annually. In 2016 the facility hosted the opening and closing ceremonies for the Special Olympics -Ontario Spring games attended by more than 7,000 competitors and spectators.</DidYouKnow>
+		<UsefulLinks>&lt;a href="www.thesleemancentre.com"&gt;The Sleeman Centre&lt;/a&gt;</UsefulLinks>
+		<DataTrackingTitle1/>
+		<DataTrackingTable1/>
+		<DataTrackingImage1/>
+	</FactDataRow>
+	<FactDataRow id="liv04">
+		<TabName>Livability</TabName>
+		<TabID>2</TabID>
+		<MetricID>4</MetricID>
+		<MetricName>Guelph Museums usage</MetricName>
+		<MetricNamebg>#55504E</MetricNamebg>
+		<IndicatorIcon>image\livability.ico</IndicatorIcon>
+		<IndicatorMouseOverText>Livability and sustainability</IndicatorMouseOverText>
+		<MeasureName>Visitors in 2016</MeasureName>
+		<MeasureNamebg>#CFCFD0</MeasureNamebg>
+		<MetricStatus>Collecting data</MetricStatus>
+		<MetricStatusbg>#0e55ac</MetricStatusbg>
+		<MetricStatusImage>cached</MetricStatusImage>
+		<MetricValue>29,241</MetricValue>
+		<MetricValuebg>#0e55ac</MetricValuebg>
+		<ContactEmail>&lt;a href="mailto:museum@guelph.ca"&gt;Guelph Museum&lt;/a&gt;
+</ContactEmail>
+		<URLFactSheet>factsheet-liv-04</URLFactSheet>
+		<Lastupdate>2017-09-08T00:00:00.000</Lastupdate>
+		<Goal>To provide accessible access to Guelph Museums exhibitions, programs and special events </Goal>
+		<MeasureDescription>Total number of people that access Guelph Museums for exhibitions, special events and educational programing at Guelph Civic Museum and McCrae House.</MeasureDescription>
+		<MeasureImportance>Adds to a high quality of life and validity of our city.  This measure tracks usage of an important cultural asset that also preserves the history of the City of Guelph.   Through events, activities and exhibitions Guelph's past is brought to life.</MeasureImportance>
+		<ExplanationofPerformance>Number of people that attend Guelph Museums. Indicator tracks each attendance not number of unique individuals.</ExplanationofPerformance>
+		<DidYouKnow>There are over 40,000 artifacts in the Museum's collection.  The oldest items are projectile points dating back to 7500-400 BC.</DidYouKnow>
+		<UsefulLinks>&lt;a href="http://www.guelphmuseums.ca"&gt;Guelph Museums&lt;/a&gt;</UsefulLinks>
+		<DataTrackingTitle1/>
+		<DataTrackingTable1/>
+		<DataTrackingImage1/>
+	</FactDataRow>
+	<FactDataRow id="liv03">
+		<TabName>Livability</TabName>
+		<TabID>2</TabID>
+		<MetricID>3</MetricID>
+		<MetricName>Recreation program registrations</MetricName>
+		<MetricNamebg>#55504E</MetricNamebg>
+		<IndicatorIcon>image\livability.ico</IndicatorIcon>
+		<IndicatorMouseOverText>Livability and sustainability</IndicatorMouseOverText>
+		<MeasureName>Participants registered in 2016 recreation programs</MeasureName>
+		<MeasureNamebg>#CFCFD0</MeasureNamebg>
+		<MetricStatus>Collecting data</MetricStatus>
+		<MetricStatusbg>#0e55ac</MetricStatusbg>
+		<MetricStatusImage>cached</MetricStatusImage>
+		<MetricValue>19,166</MetricValue>
+		<MetricValuebg>#0e55ac</MetricValuebg>
+		<ContactEmail>&lt;a href="mailto:regexpress@guelph.ca"&gt;Program registrations&lt;/a&gt;</ContactEmail>
+		<URLFactSheet>factsheet-liv-03</URLFactSheet>
+		<Lastupdate>2017-09-05T00:00:00.000</Lastupdate>
+		<Goal>To increase the total number of participants in recreation programs.</Goal>
+		<MeasureDescription>The total number of registrations represent the overall number of participants attending program offerings.</MeasureDescription>
+		<MeasureImportance>The City's Recreation and Culture Departments support Citizen wellbeing and promotes healthy balanced lifestyles through the provision of recreation, cultural, sporting, and educational opportunities.</MeasureImportance>
+		<ExplanationofPerformance>Number of registrants may not represent unique individuals as one individual may have registered in more than one program.</ExplanationofPerformance>
+		<DidYouKnow>The percentage of self-serve or online registrations has steadily increased annually from 21.6% in 2014 to 29.7% in 2016.</DidYouKnow>
+		<UsefulLinks>&lt;a href="http://guelph.ca/living/recreation/rec-facilities/"&gt;See available facilities&lt;/a&gt;&lt;br /&gt;&lt;a href="http://guelph.ca/living/recreation/recreation-programs/"&gt;Recreation programs&lt;/a&gt;</UsefulLinks>
+		<DataTrackingTitle1>Facility Usage Hours by Type</DataTrackingTitle1>
+		<DataTrackingTable1>&lt;div class="table-responsive"&gt;
+&lt;table class="table table-bordered table-striped table-hover table-condensed"&gt;
+&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Program Area&lt;/th&gt;&lt;th&gt;Online registrations&lt;/th&gt;&lt;th&gt;Operator assisted registrations&lt;/th&gt;&lt;th&gt;Total registrations&lt;/th&gt;&lt;th&gt;Online %&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;
+ &lt;tr&gt;&lt;td&gt;Aquatics&lt;/td&gt;&lt;td&gt;3,913&lt;/td&gt;&lt;td&gt;7,686&lt;/td&gt;&lt;td&gt;11,599&lt;/td&gt;&lt;td&gt;33.74%&lt;/td&gt;&lt;/tr&gt;
+ &lt;tr&gt;&lt;td&gt;Camps&lt;/td&gt;&lt;td&gt;500&lt;/td&gt;&lt;td&gt;1,853&lt;/td&gt;&lt;td&gt;2,353&lt;/td&gt;&lt;td&gt;21.25%&lt;/td&gt;&lt;/tr&gt;
+ &lt;tr&gt;&lt;td&gt;Adults&lt;/td&gt;&lt;td&gt;318&lt;/td&gt;&lt;td&gt;440&lt;/td&gt;&lt;td&gt;758&lt;/td&gt;&lt;td&gt;41.95%&lt;/td&gt;&lt;/tr&gt;
+ &lt;tr&gt;&lt;td&gt;Children/Youth&lt;/td&gt;&lt;td&gt;725&lt;/td&gt;&lt;td&gt;1,229&lt;/td&gt;&lt;td&gt;1,954&lt;/td&gt;&lt;td&gt;37.10%&lt;/td&gt;&lt;/tr&gt;
+ &lt;tr&gt;&lt;td&gt;Preschool&lt;/td&gt;&lt;td&gt;118&lt;/td&gt;&lt;td&gt;169&lt;/td&gt;&lt;td&gt;287&lt;/td&gt;&lt;td&gt;41.11%&lt;/td&gt;&lt;/tr&gt;
+ &lt;tr&gt;&lt;td&gt;"Seniors / Retired Adults"&lt;/td&gt;&lt;td&gt;112&lt;/td&gt;&lt;td&gt;2,103&lt;/td&gt;&lt;td&gt;2,215&lt;/td&gt;&lt;td&gt;5.06%&lt;/td&gt;&lt;/tr&gt;
+ &lt;tr&gt;&lt;td&gt;TOTAL&lt;/td&gt;&lt;td&gt;5,686&lt;/td&gt;&lt;td&gt;13,480&lt;/td&gt;&lt;td&gt;19,166&lt;/td&gt;&lt;td&gt;29.67%&lt;/td&gt;&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</DataTrackingTable1>
+		<DataTrackingImage1/>
+	</FactDataRow>
+	<FactDataRow id="liv05">
+		<TabName>Livability</TabName>
+		<TabID>2</TabID>
+		<MetricID>5</MetricID>
+		<MetricName>City special events</MetricName>
+		<MetricNamebg>#55504E</MetricNamebg>
+		<IndicatorIcon>image\livability.ico</IndicatorIcon>
+		<IndicatorMouseOverText>Livability and sustainability</IndicatorMouseOverText>
+		<MeasureName>Events coordinated in 2016 on City owned/operated property</MeasureName>
+		<MeasureNamebg>#CFCFD0</MeasureNamebg>
+		<MetricStatus>Collecting data</MetricStatus>
+		<MetricStatusbg>#0e55ac</MetricStatusbg>
+		<MetricStatusImage>cached</MetricStatusImage>
+		<MetricValue>474</MetricValue>
+		<MetricValuebg>#0e55ac</MetricValuebg>
+		<ContactEmail>&lt;a href="mailto:specialevents@guelph.ca"&gt;Special events&lt;/a&gt;</ContactEmail>
+		<URLFactSheet>factsheet-liv-05</URLFactSheet>
+		<Lastupdate>2017-09-05T00:00:00.000</Lastupdate>
+		<Goal>To increase the number of events held on City owned and operated property.</Goal>
+		<MeasureDescription>Number of third party community and private events, festivals, sporting tournaments and charitable runs/walks coordinated by Recreation Support Services. Coordination involves educating and supporting event organizers through the planning process and facilitating approvals and permits with other City departments and external agencies. Metric does not include events coordinated at River Run Centre or Sleeman Centre.</MeasureDescription>
+		<MeasureImportance>Special events enhance the community's quality of life and provide affordable entertainment to its citizens. Special events enhance tourism, culture, recreation, education and provide an economic benefit to businesses in the city of Guelph.</MeasureImportance>
+		<ExplanationofPerformance>Closures of facilities due to maintenance requirements may impact the ability to book  events.</ExplanationofPerformance>
+		<DidYouKnow>City facilities (both indoor and outdoor) are booked by community groups, local organizations and private individuals to host a variety of special events throughout the year. Community festivals, sporting events, corporate picnics and meetings, fundraising events and family reunions are just some of the functions taking place in City facilities.</DidYouKnow>
+		<UsefulLinks>&lt;a href="http://guelph.ca/special-events"&gt;Special Event User Guide&lt;/a&gt;</UsefulLinks>
+		<DataTrackingTitle1/>
+		<DataTrackingTable1/>
+		<DataTrackingImage1/>
+	</FactDataRow>
+	<FactDataRow id="env01">
+		<TabName>Environment</TabName>
+		<TabID>3</TabID>
+		<MetricID>1</MetricID>
+		<MetricName>Energy management</MetricName>
+		<MetricNamebg>#55504E</MetricNamebg>
+		<IndicatorIcon>image\environment.ico</IndicatorIcon>
+		<IndicatorMouseOverText>Environment</IndicatorMouseOverText>
+		<MeasureName>&lt;abbr title="Year to date"&gt;YTD&lt;/abbr&gt;&amp;nbsp; kWh&lt;sub&gt;e&lt;/sub&gt; energy consumption per person</MeasureName>
+		<MeasureNamebg>#55504E</MeasureNamebg>
+		<MetricStatus>Meets or Exceeds Target</MetricStatus>
+		<MetricStatusbg>#536E30</MetricStatusbg>
+		<MetricStatusImage>done</MetricStatusImage>
+		<MetricValue>329</MetricValue>
+		<MetricValuebg>#536E30</MetricValuebg>
+		<ContactEmail/>
+		<URLFactSheet>factsheet-env-01</URLFactSheet>
+		<Lastupdate>2017-09-05T00:00:00.000</Lastupdate>
+		<Goal>By the end of 2017, the goal is to reduce annual consumption of electricity and natural gas energy at City-owned buildings on a per person basis to below 636 kWhe/person, 6.2% less than the 2013 baseline. This is in-line with the long term Corporate Energy Management Plan target.</Goal>
+		<MeasureDescription>City of Guelph facilities use electricity and natural gas for the lighting, heating, cooling, etc. of City-owned buildings. 
+Kilowatthour equivalent (kWhe) is a common unit of energy to measure both consumed electrical energy and heating energy content in natural gas. We measure energy on a kWhe per person basis (population of the City of Guelph) to capture the growth of the City and its impact on energy consumption at City-owned buildings.</MeasureDescription>
+		<MeasureImportance>The City of Guelph owns a wide array of facilities, which in turn uses a significant amount of energy to operate. By managing and reducing our energy use, we improve the performance of our facilities while reducing our impact to the environment, utility costs and our exposure to increasing utility rates. This is achieved through energy conservation and renewable energy generation measures.</MeasureImportance>
+		<ExplanationofPerformance>So far in 2017, we have reduced more energy use per capita than our targeted amount, so are on a great track. 
+
+We continue to employ energy conservation measures (including energy retrofits, operational changes, energy data management and staff training) to reduce our energy consumption per person.</ExplanationofPerformance>
+		<DidYouKnow>By managing the way our facilities use energy we can also improve the way our buildings function and reduce maintenance costs. In addition, there are many incentives offered by utility companies and other organizations for conserving and managing energy. We apply for these incentives as we implement each energy-saving measure. When the incentive funds are received, we reinvest them in additional projects, resulting in a cycle of continuous improvement.</DidYouKnow>
+		<UsefulLinks>&lt;ul&gt; &lt;li&gt; &lt;a href="http://guelph.ca/plans-and-strategies/corporate-energy-management-plan/"&gt; Corporate energy management plan&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt; &lt;a href="https://saveonenergy.ca/"&gt;Save on energy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt; &lt;a href="https://www.uniongas.com/business/save-money-and-energy"&gt;Union gas&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</UsefulLinks>
+		<DataTrackingTitle1>Electricity and Natural Gas Consumption Reduction</DataTrackingTitle1>
+		<DataTrackingTable1>&lt;div class="table-responsive"&gt;
+&lt;table class="table table-bordered table-striped table-hover table-condensed"&gt;
+   &lt;thead&gt;&lt;tr&gt;
+      &lt;th&gt;&lt;/th&gt;
+      &lt;th&gt;Jan&lt;/th&gt;
+      &lt;th&gt;Feb&lt;/th&gt;
+      &lt;th&gt;Mar&lt;/th&gt;
+      &lt;th&gt;Apr&lt;/th&gt;
+      &lt;th&gt;May&lt;/th&gt;
+      &lt;th&gt;Jun&lt;/th&gt;
+      &lt;th&gt;Jul&lt;/th&gt;
+      &lt;th&gt;Aug&lt;/th&gt;
+      &lt;th&gt;Sep&lt;/th&gt;
+      &lt;th&gt;Oct&lt;/th&gt;
+      &lt;th&gt;Nov&lt;/th&gt;
+      &lt;th&gt;Dec&lt;/th&gt;
+      &lt;th&gt;YTD&lt;/th&gt;
+   &lt;/tr&gt;&lt;/thead&gt;
+   &lt;tr&gt;
+      &lt;td&gt;2017 Actual [kWhe/person]&lt;/td&gt;
+      &lt;td&gt; 73 &lt;/td&gt;
+      &lt;td&gt; 64 &lt;/td&gt;
+      &lt;td&gt; 65 &lt;/td&gt;
+      &lt;td&gt; 48 &lt;/td&gt;
+      &lt;td&gt; 43 &lt;/td&gt;
+      &lt;td&gt; 37 &lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt; 329 &lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;tr&gt;
+      &lt;td&gt;2017 Target [kWhe/person]&lt;/td&gt;
+      &lt;td&gt; 76 &lt;/td&gt;
+      &lt;td&gt; 67 &lt;/td&gt;
+      &lt;td&gt; 67 &lt;/td&gt;
+      &lt;td&gt; 55 &lt;/td&gt;
+      &lt;td&gt; 43 &lt;/td&gt;
+      &lt;td&gt; 37 &lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt; 345 &lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;tr&gt;
+      &lt;td&gt;Variance %&lt;/td&gt;
+      &lt;td&gt;96%&lt;/td&gt;
+      &lt;td&gt;96%&lt;/td&gt;
+      &lt;td&gt;96%&lt;/td&gt;
+      &lt;td&gt;89%&lt;/td&gt;
+      &lt;td&gt;98%&lt;/td&gt;
+      &lt;td&gt;98%&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;95%&lt;/td&gt;
+   &lt;/tr&gt;
+&lt;/table&gt;</DataTrackingTable1>
+		<DataTrackingImage1/>
+	</FactDataRow>
+	<FactDataRow id="env02">
+		<TabName>Environment</TabName>
+		<TabID>3</TabID>
+		<MetricID>2</MetricID>
+		<MetricName>Daily water use</MetricName>
+		<MetricNamebg>#55504E</MetricNamebg>
+		<IndicatorIcon>image\environment.ico</IndicatorIcon>
+		<IndicatorMouseOverText>Environment</IndicatorMouseOverText>
+		<MeasureName>Litres of water used per person per day</MeasureName>
+		<MeasureNamebg>#CFCFD0</MeasureNamebg>
+		<MetricStatus>Collecting data</MetricStatus>
+		<MetricStatusbg>#0e55ac</MetricStatusbg>
+		<MetricStatusImage>cached</MetricStatusImage>
+		<MetricValue>167</MetricValue>
+		<MetricValuebg>#0e55ac</MetricValuebg>
+		<ContactEmail>&lt;a href="mailto:waterservices@guelph.ca"&gt;Water services&lt;/a&gt; </ContactEmail>
+		<URLFactSheet>factsheet-env-02</URLFactSheet>
+		<Lastupdate>2017-09-05T00:00:00.000</Lastupdate>
+		<Goal>To achieve and maintain a daily water use of 157 litres per person per day by 2038, in line with the 2014 Water Supply Master Plan.</Goal>
+		<MeasureDescription>Annually, annual household water consumption for single family homes (Property Code 301) is totalized across the City and the daily average is calculated. The most recent Census data (2016) for low density Guelph homes (2.9 persons per household) is applied in order to report the value in litres per person per day.</MeasureDescription>
+		<MeasureImportance>The Water Supply Master Plan identifies reclaiming capacity through effective water efficiency programming as the most cost effective and immediate form of new supply for our growing community. Further, the City must demonstrate effective and reliable water conservation efforts before Permit to Take Water renewals or expansions are granted from the Ministry of Environment and Climate Change for wells.</MeasureImportance>
+		<ExplanationofPerformance>The residential target for indoor and outdoor use is one metric being used by Water Services to verify that we are on track to meet our water efficiency program goals, and ensure sufficient water supply long-term as per 2014 Water Supply Master Plan.</ExplanationofPerformance>
+		<DidYouKnow>The average Ontarian uses 200 litres per person per day, and the average Canadian uses 250 litres per person per day. On average, Guelph residents are using 167 litres of water per person per day.</DidYouKnow>
+		<UsefulLinks>&lt;a href=" http://guelph.ca/plans-and-strategies/water-efficiency-strategy/"&gt;Water Efficiency Strategy&lt;/a&gt;</UsefulLinks>
+		<DataTrackingTitle1>Residential per capita daily water use</DataTrackingTitle1>
+		<DataTrackingTable1>&lt;div class="table-responsive"&gt;
+&lt;table class="table table-bordered table-striped table-hover table-condensed"&gt;
+  &lt;thead&gt;&lt;tr&gt;
+      &lt;th&gt;&lt;/th&gt;
+      &lt;th&gt;Reduction (m3/day)&lt;/th&gt;
+   &lt;/tr&gt;&lt;/thead&gt;
+   &lt;tr&gt;
+      &lt;td&gt;2023 Target&lt;/td&gt;
+      &lt;td&gt; 4,116 &lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;tr&gt;
+      &lt;td&gt;2038 Target&lt;/td&gt;
+      &lt;td&gt; 9,147 &lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;tr&gt;
+      &lt;td&gt;2016 Actual&lt;/td&gt;
+      &lt;td&gt; 4,887 &lt;/td&gt;
+   &lt;/tr&gt;
+&lt;/table&gt;</DataTrackingTable1>
+		<DataTrackingImage1/>
+	</FactDataRow>
+	<FactDataRow id="env03">
+		<TabName>Environment</TabName>
+		<TabID>3</TabID>
+		<MetricID>3</MetricID>
+		<MetricName>Water production trend</MetricName>
+		<MetricNamebg>#55504E</MetricNamebg>
+		<IndicatorIcon>image\environment.ico</IndicatorIcon>
+		<IndicatorMouseOverText>Environment</IndicatorMouseOverText>
+		<MeasureName>Cubic metres of clean water produced</MeasureName>
+		<MeasureNamebg>#CFCFD0</MeasureNamebg>
+		<MetricStatus>Collecting data</MetricStatus>
+		<MetricStatusbg>#0e55ac</MetricStatusbg>
+		<MetricStatusImage>cached</MetricStatusImage>
+		<MetricValue>16,940,220</MetricValue>
+		<MetricValuebg>#0e55ac</MetricValuebg>
+		<ContactEmail>&lt;a href="mailto:waterservices@guelph.ca"&gt;Water services&lt;/a&gt; </ContactEmail>
+		<URLFactSheet>factsheet-env-03</URLFactSheet>
+		<Lastupdate>2017-09-05T00:00:00.000</Lastupdate>
+		<Goal>To demonstrate the trend in annual water production over the past 10 years.</Goal>
+		<MeasureDescription>Annual water production to meet the needs of the community over the last 10 years.</MeasureDescription>
+		<MeasureImportance>The Water Supply Master Plan identifies reclaiming capacity through effective water efficiency programming as the most cost effective and immediate form of new supply for our growing community. Further, the City must demonstrate effective and reliable water conservation efforts before Permit to Take Water renewals or expansions are granted from the Ministry of Environment and Climate Change for wells.</MeasureImportance>
+		<ExplanationofPerformance>Registrations reported are net of withdrawals.</ExplanationofPerformance>
+		<DidYouKnow>3.7 million litres of water per day has been reclaimed over the last three years due to  water conservation and efficiency programming (10 year planning horizon Water Supply Master Plan).</DidYouKnow>
+		<UsefulLinks>&lt;ul&gt;&lt;li&gt; &lt;a href=" http://guelph.ca/plans-and-strategies/water-efficiency-strategy/"&gt;Water Efficiency Strategy&lt;/a&gt; &lt;/li&gt; &lt;li&gt;&lt;a href="http://guelph.ca/wp-content/uploads/RPT-2014-05-29-GuelphWSMP-60287843-DraftFinalCOMPLETEREPORTwithAPPENDICES.pdf"&gt;Water Supply Master Plan&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href="http://guelph.ca/wesu"&gt;Statistics Canada - 2016 Census. Catalogue Number 98-400-X2016017&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</UsefulLinks>
+		<DataTrackingTitle1>Total annual water production</DataTrackingTitle1>
+		<DataTrackingTable1>&lt;div class="table-responsive"&gt;
+&lt;table class="table table-bordered table-striped table-hover table-condensed"&gt;
+  &lt;thead&gt;&lt;tr&gt;
+      &lt;th&gt;&lt;/th&gt;
+      &lt;th&gt;2016&lt;/th&gt;
+      &lt;th&gt;2015&lt;/th&gt;
+      &lt;th&gt;2014&lt;/th&gt;
+      &lt;th&gt;2103&lt;/th&gt;
+      &lt;th&gt;2012&lt;/th&gt;
+      &lt;th&gt;2011&lt;/th&gt;
+      &lt;th&gt;2010&lt;/th&gt;
+      &lt;th&gt;2009&lt;/th&gt;
+      &lt;th&gt;2008&lt;/th&gt;
+      &lt;th&gt;2007&lt;/th&gt;
+   &lt;/tr&gt;&lt;/thead&gt;
+   &lt;tr&gt;
+      &lt;td&gt;Actual (m3/year)&lt;/td&gt;
+      &lt;td&gt; 16,940,220 &lt;/td&gt;
+      &lt;td&gt; 17,108,611 &lt;/td&gt;
+      &lt;td&gt; 16,695,677 &lt;/td&gt;
+      &lt;td&gt; 16,198,192 &lt;/td&gt;
+      &lt;td&gt; 16,559,330 &lt;/td&gt;
+      &lt;td&gt; 16,665,879 &lt;/td&gt;
+      &lt;td&gt; 16,221,258 &lt;/td&gt;
+      &lt;td&gt; 17,011,737 &lt;/td&gt;
+      &lt;td&gt; 17,748,147 &lt;/td&gt;
+      &lt;td&gt; 18,616,944 &lt;/td&gt;
+   &lt;/tr&gt;
+&lt;/table&gt;</DataTrackingTable1>
+		<DataTrackingImage1/>
+	</FactDataRow>
+	<FactDataRow id="env04">
+		<TabName>Environment</TabName>
+		<TabID>3</TabID>
+		<MetricID>4</MetricID>
+		<MetricName>Water reduction target</MetricName>
+		<MetricNamebg>#55504E</MetricNamebg>
+		<IndicatorIcon>image\environment.ico</IndicatorIcon>
+		<IndicatorMouseOverText>Environment</IndicatorMouseOverText>
+		<MeasureName>Litres reduced in daily water production</MeasureName>
+		<MeasureNamebg>#CFCFD0</MeasureNamebg>
+		<MetricStatus>Collecting data</MetricStatus>
+		<MetricStatusbg>#0e55ac</MetricStatusbg>
+		<MetricStatusImage>cached</MetricStatusImage>
+		<MetricValue>4,887</MetricValue>
+		<MetricValuebg>#0e55ac</MetricValuebg>
+		<ContactEmail>&lt;a href="mailto:waterservices@guelph.ca"&gt;Water services&lt;/a&gt; </ContactEmail>
+		<URLFactSheet>factsheet-env-04</URLFactSheet>
+		<Lastupdate>2017-09-05T00:00:00.000</Lastupdate>
+		<Goal>To reduce daily water production by 9,147,000 litres by 2038 based on projected demand of a growing community (Water Supply Master Plan 2014).</Goal>
+		<MeasureDescription>Using 2013 as a base year, the goal of the water efficiency strategy is to help reduce projected water production from 69,872 m3/day (scenario: do nothing) to 60,725 m3/day (scenario: with water efficiency and other measures), as per the 2014 Water Supply Master Plan.</MeasureDescription>
+		<MeasureImportance>The Water Supply Master Plan identifies reclaiming capacity through effective water efficiency programming as the most cost effective and immediate form of new supply for our growing community. Further, the City must demonstrate effective and reliable water conservation efforts before Permit to Take Water renewals or expansions are granted from the Ministry of Environment and Climate Change for wells.</MeasureImportance>
+		<ExplanationofPerformance>Annual water production to meet the needs of a growing community is the overarching metric utilized by Water Services to verify that we are on track to meet our water efficiency program goals, and ensure sufficient water supply long-term as per 2014 Water Supply Master Plan.</ExplanationofPerformance>
+		<DidYouKnow>3.7 million litres of water per day has been reclaimed over the last three years due to  water conservation and efficiency programming (10 year planning horizon Water Supply Master Plan).</DidYouKnow>
+		<UsefulLinks>&lt;ul&gt; &lt;li&gt;&lt;a href=" http://guelph.ca/wp-content/uploads/AnnualandSummaryWaterServicesReport.pdf;"&gt;Annual Summary Report&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="http://guelph.ca/wp-content/uploads/RPT-2014-05-29-GuelphWSMP-60287843-DraftFinalCOMPLETEREPORTwithAPPENDICES.pdf"&gt; Water Supply Master Plan&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</UsefulLinks>
+		<DataTrackingTitle1>Reduction in average day water production</DataTrackingTitle1>
+		<DataTrackingTable1>&lt;div class="table-responsive"&gt;
+&lt;table class="table table-bordered table-striped table-hover table-condensed"&gt;
+  &lt;thead&gt;&lt;tr&gt;
+      &lt;th&gt;&lt;/th&gt;
+      &lt;th&gt;Reduction (m3/day)&lt;/th&gt;
+   &lt;/tr&gt;&lt;/thead&gt;
+   &lt;tr&gt;
+      &lt;td&gt;2023 Target&lt;/td&gt;
+      &lt;td&gt; 4,116 &lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;tr&gt;
+      &lt;td&gt;2038 Target&lt;/td&gt;
+      &lt;td&gt; 9,147 &lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;tr&gt;
+      &lt;td&gt;2016 Actual&lt;/td&gt;
+      &lt;td&gt; 4,887 &lt;/td&gt;
+   &lt;/tr&gt;
+&lt;/table&gt;</DataTrackingTable1>
+		<DataTrackingImage1/>
+	</FactDataRow>
+	<FactDataRow id="env05">
+		<TabName>Environment</TabName>
+		<TabID>3</TabID>
+		<MetricID>5</MetricID>
+		<MetricName>Landfill diversion</MetricName>
+		<MetricNamebg>#55504E</MetricNamebg>
+		<IndicatorIcon>image\environment.ico</IndicatorIcon>
+		<IndicatorMouseOverText>Environment</IndicatorMouseOverText>
+		<MeasureName>Residential waste diverted from landfill</MeasureName>
+		<MeasureNamebg>#CFCFD0</MeasureNamebg>
+		<MetricStatus>Needs Improvement</MetricStatus>
+		<MetricStatusbg>#ed1c24</MetricStatusbg>
+		<MetricStatusImage>clear</MetricStatusImage>
+		<MetricValue>59%</MetricValue>
+		<MetricValuebg>#ed1c24</MetricValuebg>
+		<ContactEmail>&lt;a href="mailto:waste@guelph.ca"&gt;&lt;/a&gt;</ContactEmail>
+		<URLFactSheet>factsheet-env-05</URLFactSheet>
+		<Lastupdate>2017-09-05T00:00:00.000</Lastupdate>
+		<Goal>Divert 70 per cent residential waste from landfill by 2021.</Goal>
+		<MeasureDescription>Landfill diversion is a measure of the total amount (as a percentage) of waste that is reused, recycled and composted through a variety of municipal programs. These programs keep material that give waste a new life out of our landfills.</MeasureDescription>
+		<MeasureImportance>Waste diversion offers many environmental, social and economic benefits to our community. These range from conserving our natural resources by reusing and recycling more, to saving costs and reducing greenhouse gas emissions because we’re sending less to the landfill.</MeasureImportance>
+		<ExplanationofPerformance>The diversion target was 65% by 2016 and 70% by 2021. The diversion rate is calculated based on the weight of organics and recyclables collected at the curb, as well as other diversion programs offered at the Public Drop Off, as a percentage of the total weight of all waste collected. Recently Guelph has seen an increase in the weight of garbage and a drop in the weight of recyclables collected at the curb, in addition to an increase in improperly sorted waste. These factors contribute to the recent drop in our diversion rate. The good news is that through proper waste sorting into Guelph’s three streams, we can increase the amount of waste that is recycled, reused and composted, which reduces the amount that goes into the landfill. Other factors that affect performance include changes in consumer behaviour and light weighting trends (e.g. less newspapers are printed) and packaging (e.g. products packaged in plastic instead of glass).</ExplanationofPerformance>
+		<DidYouKnow>In 2016, 428 bicycles were picked-up free of charge by residents as part of the 'Bike Reuse Program'. Also, 20,480 residents visited the 'Paint+Reuse' program, resulting in 4,587 liters of paint being re-used.</DidYouKnow>
+		<UsefulLinks>&lt;a href="http://guelph.ca/plans-and-strategies/solid-waste-management-master-plan/"&gt; Solid waste management master plan&lt;/a&gt;</UsefulLinks>
+		<DataTrackingTitle1>% Landfill Diversion</DataTrackingTitle1>
+		<DataTrackingTable1>&lt;div class="table-responsive"&gt;
+&lt;table class="table table-bordered table-striped table-hover table-condensed"&gt;
+&lt;thead&gt;&lt;tr&gt;&lt;th&gt;&lt;/th&gt;&lt;th&gt;% Landfill Diversion&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;
+&lt;tbody&gt;
+ &lt;tr&gt;&lt;td&gt;2016 Actual&lt;/td&gt;&lt;td&gt;59%&lt;/td&gt;&lt;/tr&gt;
+ &lt;tr&gt;&lt;td&gt;2015Actual&lt;/td&gt;&lt;td&gt;61%&lt;/td&gt;&lt;/tr&gt;
+ &lt;tr&gt;&lt;td&gt;2021 Target&lt;/td&gt;&lt;td&gt;70%&lt;/td&gt;&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</DataTrackingTable1>
+		<DataTrackingImage1/>
+	</FactDataRow>
+	<FactDataRow id="ps02">
+		<TabName>Public Safety</TabName>
+		<TabID>4</TabID>
+		<MetricID>2</MetricID>
+		<MetricName>Traffic sign reflectivity</MetricName>
+		<MetricNamebg>#55504E</MetricNamebg>
+		<IndicatorIcon>image\safety.ico</IndicatorIcon>
+		<IndicatorMouseOverText>Public safety</IndicatorMouseOverText>
+		<MeasureName>Signs checked in 2017</MeasureName>
+		<MeasureNamebg>#CFCFD0</MeasureNamebg>
+		<MetricStatus>Collecting data</MetricStatus>
+		<MetricStatusbg>#0e55ac</MetricStatusbg>
+		<MetricStatusImage>cached</MetricStatusImage>
+		<MetricValue>0</MetricValue>
+		<MetricValuebg>#0e55ac</MetricValuebg>
+		<ContactEmail>&lt;a href="mailto:operations@guelph.ca"&gt;Operations&lt;/a&gt;</ContactEmail>
+		<URLFactSheet>factsheet-ps-02</URLFactSheet>
+		<Lastupdate>2017-09-11T00:00:00.000</Lastupdate>
+		<Goal>The reflectivity of all City maintained regulatory signage is to be checked on an annual basis.</Goal>
+		<MeasureDescription>The completion rate will be based on the number of regulatory signs maintained by the City (12,000 signs) and the number of these signs checked by staff.</MeasureDescription>
+		<MeasureImportance>For the safety of motorists and pedestrians, it is important that all signs with poor reflectivity are identified and replaced.</MeasureImportance>
+		<ExplanationofPerformance>Reflectivity inspections cannot usually be completed during daytime hours. Therefore this work is typically scheduled for the months of October and November when we experience shortened daylight hours.</ExplanationofPerformance>
+		<DidYouKnow>In addition to the 12,000 regulatory signs, the City has approximately 18,000 non regulatory signs posted on city streets.</DidYouKnow>
+	</FactDataRow>
+	<FactDataRow id="ps01">
+		<TabName>Public Safety</TabName>
+		<TabID>4</TabID>
+		<MetricID>1</MetricID>
+		<MetricName>Intersection collisions</MetricName>
+		<MetricNamebg>#55504E</MetricNamebg>
+		<IndicatorIcon>image\safety.ico</IndicatorIcon>
+		<IndicatorMouseOverText>Public safety</IndicatorMouseOverText>
+		<MeasureName>Vehicle collisions per 1,000 population</MeasureName>
+		<MeasureNamebg>#CFCFD0</MeasureNamebg>
+		<MetricStatus>Collecting data</MetricStatus>
+		<MetricStatusbg>#0e55ac</MetricStatusbg>
+		<MetricStatusImage>cached</MetricStatusImage>
+		<MetricValue>16.34</MetricValue>
+		<MetricValuebg>#0e55ac</MetricValuebg>
+		<ContactEmail>&lt;a href="mailto:traffic@guelph.ca"&gt;Traffic&lt;/a&gt;</ContactEmail>
+		<URLFactSheet>factsheet-ps-01</URLFactSheet>
+		<Lastupdate>2017-08-05T00:00:00.000</Lastupdate>
+		<Goal>Reduce the number of vehicle collisions to below 10 per 1,000 population by 2020.</Goal>
+		<MeasureDescription>Vehicle collision rate measures the rate of vehicle collisions  per 1,000 population. Collisions are defined as all police-reported collisions on public property with greater than $2,000 damage, or that result in an injury or fatality. The rate reported is based on the City of Guelph population and is a summary of performance year to date. The rate is to be updated monthly, however, recent historical data for this measure is subject to change as information is coordinated and made available.</MeasureDescription>
+		<MeasureImportance>Collisions have impacts beyond injuries, including property damage and perception of safety. Through the planning, design, operation, and maintenance of Guelph's streets, the City has a strong influence on safety. A decrease in the number of collisions per capita is a necessary condition to reducing the magnitude of property damage from collisions.</MeasureImportance>
+		<ExplanationofPerformance>In 2016, the rate of vehicle collisions per 1,000 population was 16.34</ExplanationofPerformance>
+		<DidYouKnow>The 5 E's of Traffic Safety are; Engineering, Education, Enforcement, Evaluation and Engagement.</DidYouKnow>
+		<UsefulLinks/>
+		<DataTrackingTitle1/>
+		<DataTrackingTable1/>
+		<DataTrackingImage1/>
+	</FactDataRow>
+	<FactDataRow id="eco01">
+		<TabName>Economy</TabName>
+		<TabID>5</TabID>
+		<MetricID>1</MetricID>
+		<MetricName>Unemployment rate</MetricName>
+		<MetricNamebg>#55504E</MetricNamebg>
+		<IndicatorIcon>image\economy.ico</IndicatorIcon>
+		<IndicatorMouseOverText>Economy</IndicatorMouseOverText>
+		<MeasureName>Unemployed people as percentage of total labour force</MeasureName>
+		<MeasureNamebg>#CFCFD0</MeasureNamebg>
+		<MetricStatus>Collecting data</MetricStatus>
+		<MetricStatusbg>#0e55ac</MetricStatusbg>
+		<MetricStatusImage>cached</MetricStatusImage>
+		<MetricValue>4.7%</MetricValue>
+		<MetricValuebg>#0e55ac</MetricValuebg>
+		<ContactEmail>&lt;a href="mailto:bizinfo@guelph.ca"&gt;Economic development&lt;/a&gt;</ContactEmail>
+		<URLFactSheet>factsheet-eco-01</URLFactSheet>
+		<Lastupdate>2017-09-11T00:00:00.000</Lastupdate>
+		<Goal>Monitor the unemployment rate as an economic indicator of the Guelph Census Metropolitan Area's labour market.</Goal>
+		<MeasureDescription>The unemployment rate measures the number of people unemployed as a percentage of the total labour force (employed and unemployed). This indicator shows the seasonally adjusted estimates (as a percentage rate) for the Guelph Census Metropolitan Area.</MeasureDescription>
+		<MeasureImportance>The unemployment rate is an indicator of health of the economy.</MeasureImportance>
+		<ExplanationofPerformance>The growth in small and medium-sized businesses in Guelph was 1.6% in 2016. This continues an overall trend of positive small and medium enterprise (SME) growth since 2013. The growth in SMEs in 2016 is driven by the Professional, Scientific and Technical Service sector, which saw the addition of 30 new business establishments. Most of which are new companies with one to four employees. The Real Estate, Rental, and Leasing Sector also contributed to SME growth in 2016, adding 17 new business establishments, which vary in employee size.</ExplanationofPerformance>
+		<DidYouKnow>The unemployment rate for the Guelph Census Metropolitan Area has been consistently lower than both the Ontario and Canada average over the past five years.</DidYouKnow>
+		<UsefulLinks>For more information on the unemployment rate and other labour market indicators, see &lt;a href="http://www.statcan.gc.ca/daily-quotidien/170908/dq170908a-eng.htm"&gt;Statistics Canada's Labour Force Survey release&lt;/a&gt;</UsefulLinks>
+		<DataTrackingTitle1>Unemployment Rate Percent</DataTrackingTitle1>
+		<DataTrackingTable1>&lt;div class="table-responsive"&gt;
+&lt;table class="table table-bordered table-striped table-hover table-condensed"&gt;
+&lt;thead&gt;&lt;tr&gt;&lt;th&gt;&lt;/th&gt;&lt;th&gt;Jan&lt;/th&gt;&lt;th&gt;Feb&lt;/th&gt;&lt;th&gt;Mar&lt;/th&gt;&lt;th&gt;Apr&lt;/th&gt;&lt;th&gt;May&lt;/th&gt;&lt;th&gt;Jun&lt;/th&gt;&lt;th&gt;Jul&lt;/th&gt;&lt;th&gt;Aug&lt;/th&gt;&lt;th&gt;Sep&lt;/th&gt;&lt;th&gt;Oct&lt;/th&gt;&lt;th&gt;Nov&lt;/th&gt;&lt;th&gt;Dec&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;2017 Actual&lt;/td&gt;&lt;td&gt;5.5%&lt;/td&gt;&lt;td&gt;5.8%&lt;/td&gt;&lt;td&gt;5.7%&lt;/td&gt;&lt;td&gt;4.6%&lt;/td&gt;&lt;td&gt;3.9%&lt;/td&gt;&lt;td&gt;3.8%&lt;/td&gt;&lt;td&gt;4.5%&lt;/td&gt;&lt;td&gt;4.7%&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;2016  Actual&lt;/td&gt;&lt;td&gt;4.0%&lt;/td&gt;&lt;td&gt;3.9%&lt;/td&gt;&lt;td&gt;4.5%&lt;/td&gt;&lt;td&gt;4.9%&lt;/td&gt;&lt;td&gt;5.6%&lt;/td&gt;&lt;td&gt;5.5%&lt;/td&gt;&lt;td&gt;5.3%&lt;/td&gt;&lt;td&gt;4.9%&lt;/td&gt;&lt;td&gt;4.8%&lt;/td&gt;&lt;td&gt;4.6%&lt;/td&gt;&lt;td&gt;4.1%&lt;/td&gt;&lt;td&gt;4.4%&lt;/td&gt;&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;</DataTrackingTable1>
+		<DataTrackingImage1/>
+	</FactDataRow>
+	<FactDataRow id="eco02">
+		<TabName>Economy</TabName>
+		<TabID>5</TabID>
+		<MetricID>2</MetricID>
+		<MetricName>Small and medium-sized businesses</MetricName>
+		<MetricNamebg>#55504E</MetricNamebg>
+		<IndicatorIcon>image\economy.ico</IndicatorIcon>
+		<IndicatorMouseOverText>Economy</IndicatorMouseOverText>
+		<MeasureName>Growth in small to medium-sized businesses</MeasureName>
+		<MeasureNamebg>#CFCFD0</MeasureNamebg>
+		<MetricStatus>Collecting data</MetricStatus>
+		<MetricStatusbg>#0e55ac</MetricStatusbg>
+		<MetricStatusImage>cached</MetricStatusImage>
+		<MetricValue>1.6%</MetricValue>
+		<MetricValuebg>#0e55ac</MetricValuebg>
+		<ContactEmail>&lt;a href="mailto:bizinfo@guelph.ca"&gt;Economic development&lt;/a&gt;</ContactEmail>
+		<URLFactSheet>factsheet-eco-02</URLFactSheet>
+		<Lastupdate>2017-09-05T00:00:00.000</Lastupdate>
+		<Goal>Positive growth in the number of small and medium sized businesses in Guelph through 2020. Our target is to ensure positive growth.</Goal>
+		<MeasureDescription>Growth in small to medium-sized businesses measures the percentage of growth, year-over-year, in the number of small to medium-sized businesses in the City of Guelph. They are defined as businesses with 1 to 49 employees. Data comes from the Canadian Business Patterns database and is released twice a year by Statistics Canada. Information is gathered from the Business Register, which maintains a complete, up-to-date and unduplicated list of all active businesses in Canada that have a corporate income tax (T2) account, are an employer or have a GST account with an annual gross business income of more than $30,000.</MeasureDescription>
+		<MeasureImportance>The climate for entrepreneurship and business start-ups within Guelph impacts the growth of small to medium-sized business. This is seen as a measure of the City’s success in maintaining business-friendly policies and providing small business and entrepreneurial support.</MeasureImportance>
+		<ExplanationofPerformance>The growth in small and medium-sized businesses in Guelph was 1.6% in 2016. This continues an overall trend of positive small and medium enterprise (SME) growth since 2013. The growth in SMEs in 2016 is driven by the Professional, Scientific and Technical Service sector, which saw the addition of 30 new business establishments; most of which are new companies with one to four employees. The Real Estate, Rental, and Leasing Sector also contributed to SME growth in 2016, adding 17 new business establishments, which vary in employee size.</ExplanationofPerformance>
+		<DidYouKnow>Since 2012, the number of small and medium-sized businesses in the City of Guelph has grown year-over year.&lt;br /&gt;
+Launched in November, 2013, the Grow Guelph Business Retention and Expansion (Grow Guelph BR+E) program was established as a communitywide effort to investigate issues and concerns of, as well as opportunities for, the growth of local business. &lt;br /&gt;
+The Grow Guelph BR+E program is driven by a committee of coordinated business support and service organizations that develop and deliver various programs, services and influence policies that support the retention, growth and profitability of local business.</DidYouKnow>
+		<UsefulLinks>For more information on Canadian Business Counts and its data, see &lt;a href="http://www.statcan.gc.ca/daily-quotidien/170215/dq170215e-eng.htm"&gt;Statistics Canada's release&lt;/a&gt;&lt;br /&gt;
+For more information on Prosperity 2020 see: &lt;a href="http://guelph.ca/plans-and-strategies/prosperity-2020/"&gt;Plans and strategies - prosperity 2020&lt;/a&gt;</UsefulLinks>
+		<DataTrackingTitle1>Percentage SME growth (Yearly)</DataTrackingTitle1>
+		<DataTrackingTable1>&lt;div class="table-responsive"&gt;
+&lt;table class="table table-bordered table-striped table-hover table-condensed"&gt;
+&lt;thead&gt;&lt;tr&gt;&lt;th&gt;&lt;/th&gt;&lt;th&gt;2013&lt;/th&gt;&lt;th&gt;2014&lt;/th&gt;&lt;th&gt;2015&lt;/th&gt;&lt;th&gt;2016&lt;/th&gt;&lt;th&gt;2017&lt;/th&gt;&lt;th&gt;2018&lt;/th&gt;&lt;th&gt;2019&lt;/th&gt;&lt;th&gt;2020&lt;/th&gt;&lt;th&gt;2021&lt;/th&gt;&lt;th&gt;2022&lt;/th&gt;&lt;th&gt;2023&lt;/th&gt;&lt;th&gt;2024&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;2017 Actual&lt;/td&gt;&lt;td&gt;3.9%&lt;/td&gt;&lt;td&gt;4.3%&lt;/td&gt;&lt;td&gt;2.2%&lt;/td&gt;&lt;td&gt;1.6%&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;
+ &lt;tr&gt;&lt;td&gt;2017 Target&lt;/td&gt;&lt;td&gt;1%&lt;/td&gt;&lt;td&gt;1%&lt;/td&gt;&lt;td&gt;1%&lt;/td&gt;&lt;td&gt;1%&lt;/td&gt;&lt;td&gt;1%&lt;/td&gt;&lt;td&gt;1%&lt;/td&gt;&lt;td&gt;1%&lt;/td&gt;&lt;td&gt;1%&lt;/td&gt;&lt;td&gt;1%&lt;/td&gt;&lt;td&gt;1%&lt;/td&gt;&lt;td&gt;1%&lt;/td&gt;&lt;td&gt;1%&lt;/td&gt;&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;</DataTrackingTable1>
+		<DataTrackingImage1>ChartPercentSMEGrowth.jpg</DataTrackingImage1>
+	</FactDataRow>
+	<FactDataRow id="eco03">
+		<TabName>Economy</TabName>
+		<TabID>5</TabID>
+		<MetricID>3</MetricID>
+		<MetricName>Building permits issued</MetricName>
+		<MetricNamebg>#55504E</MetricNamebg>
+		<IndicatorIcon>image\economy.ico</IndicatorIcon>
+		<IndicatorMouseOverText>Economy</IndicatorMouseOverText>
+		<MeasureName>Permits issued (year to date)</MeasureName>
+		<MeasureNamebg>#CFCFD0</MeasureNamebg>
+		<MetricStatus>Collecting data</MetricStatus>
+		<MetricStatusbg>#0e55ac</MetricStatusbg>
+		<MetricStatusImage>cached</MetricStatusImage>
+		<MetricValue>1,513</MetricValue>
+		<MetricValuebg>#0e55ac</MetricValuebg>
+		<ContactEmail>&lt;a href="mailto:building@guelph.ca"&gt;Building&lt;/a&gt;</ContactEmail>
+		<URLFactSheet>factsheet-eco-03</URLFactSheet>
+		<Lastupdate>2017-09-05T00:00:00.000</Lastupdate>
+		<Goal>The Building Services team is responsible for issuing building permits for all construction and demolition projects within the City of Guelph.</Goal>
+		<MeasureDescription>Building permits are issued for applicable size and type of projects from decks or sheds, to high-rise residential or large industrial buildings. Building permits are also issued for miscellaneous projects such as pools, hot tubs and permanent signs.</MeasureDescription>
+		<MeasureImportance>The Ontario Building Code (OBC) is a regulation under the Building Code Act.  The focus of this provincially legislated service is to ensure the technical requirements of the OBC are met.
+The OBC contains minimum provisions respecting the functionality of buildings with reference to safety, health, fire protection, accessibility, energy efficiency and structural sufficiency.  Building permit applications are reviewed by the Building Services team to confirm compliance with the OBC and to ensure that these minimum requirements are met.</MeasureImportance>
+		<ExplanationofPerformance>The number of building permits issued in 2016 was the second highest in the past 11 years.  A strong July of 2017 suggests a similar annual number of building permits will be issued this year.</ExplanationofPerformance>
+		<DidYouKnow>The Province mandates that applicable building permit applications be reviewed within set time lines which vary from 10 to 30 working days. Within 10 days permits for houses and associated renovations, additions, and accessory buildings are required. Smaller multi-residential, commercial and industrial building permits are required to be reviewed within 15 days. Larger buildings are to be reviewed within 20 days. Post-disaster buildings, such as hospitals and police stations, are required to be reviewed within 30 days.</DidYouKnow>
+		<UsefulLinks>&lt;a href="http://guelph.ca/building"&gt;Building Services&lt;/a&gt;</UsefulLinks>
+		<DataTrackingTitle1>Number of building permits issued</DataTrackingTitle1>
+		<DataTrackingTable1>&lt;div class="table-responsive"&gt;
+          &lt;table class="table table-bordered table-striped table-hover table-condensed"&gt;
+           &lt;thead&gt;
+            &lt;tr&gt;
+             &lt;th&gt;&lt;/th&gt;
+             &lt;th&gt;Jan&lt;/th&gt;
+             &lt;th&gt;Feb&lt;/th&gt;
+             &lt;th&gt;Mar&lt;/th&gt;
+             &lt;th&gt;Apr&lt;/th&gt;
+             &lt;th&gt;May&lt;/th&gt;
+             &lt;th&gt;Jun&lt;/th&gt;
+             &lt;th&gt;Jul&lt;/th&gt;
+             &lt;th&gt;Aug&lt;/th&gt;
+             &lt;th&gt;Sep&lt;/th&gt;
+             &lt;th&gt;Oct&lt;/th&gt;
+             &lt;th&gt;Nov&lt;/th&gt;
+             &lt;th&gt;Dec&lt;/th&gt;
+             &lt;th&gt;YTD Avg&lt;/th&gt;
+            &lt;/tr&gt;
+           &lt;/thead&gt;
+           &lt;tbody&gt;
+            &lt;tr&gt;
+             &lt;td&gt;2017 Actual&lt;/td&gt;
+             &lt;td&gt;136&lt;/td&gt;
+             &lt;td&gt;129&lt;/td&gt;
+             &lt;td&gt;194&lt;/td&gt;
+             &lt;td&gt;169&lt;/td&gt;
+             &lt;td&gt;328&lt;/td&gt;
+             &lt;td&gt;285&lt;/td&gt;
+             &lt;td&gt;272&lt;/td&gt;
+             &lt;td&gt;&amp;nbsp;&lt;/td&gt;
+             &lt;td&gt;&amp;nbsp;&lt;/td&gt;
+             &lt;td&gt;&amp;nbsp;&lt;/td&gt;
+             &lt;td&gt;&amp;nbsp;&lt;/td&gt;
+             &lt;td&gt;&amp;nbsp;&lt;/td&gt;
+             &lt;td&gt;216&lt;/td&gt;
+            &lt;/tr&gt;
+            &lt;tr&gt;
+             &lt;td&gt;2017 Target&lt;/td&gt;
+             &lt;td align="center" colspan="12"&gt;Building permit activity is dependant on economic and market trends, therefore monthly targets cannot be established&lt;/td&gt;
+             &lt;td&gt;2600 (total)&lt;/td&gt;
+            &lt;/tr&gt;
+            &lt;tr&gt;
+             &lt;td&gt;2016 Actual&lt;/td&gt;
+             &lt;td&gt;119&lt;/td&gt;
+             &lt;td&gt;155&lt;/td&gt;
+             &lt;td&gt;188&lt;/td&gt;
+             &lt;td&gt;235&lt;/td&gt;
+             &lt;td&gt;310&lt;/td&gt;
+             &lt;td&gt;335&lt;/td&gt;
+             &lt;td&gt;224&lt;/td&gt;
+             &lt;td&gt;242&lt;/td&gt;
+             &lt;td&gt;216&lt;/td&gt;
+             &lt;td&gt;217&lt;/td&gt;
+             &lt;td&gt;223&lt;/td&gt;
+             &lt;td&gt;180&lt;/td&gt;
+             &lt;td&gt;220&lt;/td&gt;
+            &lt;/tr&gt;
+            &lt;tr&gt;
+             &lt;td&gt;
+              &lt;abbr Title="Average of past 5 years"&gt;Benchmark ¹&lt;/abbr&gt;
+             &lt;/td&gt;
+             &lt;td&gt;139&lt;/td&gt;
+             &lt;td&gt;139&lt;/td&gt;
+             &lt;td&gt;176&lt;/td&gt;
+             &lt;td&gt;211&lt;/td&gt;
+             &lt;td&gt;285&lt;/td&gt;
+             &lt;td&gt;305&lt;/td&gt;
+             &lt;td&gt;248&lt;/td&gt;
+             &lt;td&gt;231&lt;/td&gt;
+             &lt;td&gt;213&lt;/td&gt;
+             &lt;td&gt;216&lt;/td&gt;
+             &lt;td&gt;171&lt;/td&gt;
+             &lt;td&gt;164&lt;/td&gt;
+             &lt;td&gt;208&lt;/td&gt;
+            &lt;/tr&gt;
+            &lt;tr&gt;
+             &lt;td&gt;
+              &lt;abbr Title="Comparing 2016 to 2017"&gt;Variance ²&lt;/abbr&gt;
+             &lt;/td&gt;
+             &lt;td&gt;17&lt;/td&gt;
+             &lt;td&gt;-26&lt;/td&gt;
+             &lt;td&gt;6&lt;/td&gt;
+             &lt;td&gt;-66&lt;/td&gt;
+             &lt;td&gt;18&lt;/td&gt;
+             &lt;td&gt;-50&lt;/td&gt;
+             &lt;td&gt;48&lt;/td&gt;
+             &lt;td&gt;&amp;nbsp;&lt;/td&gt;
+             &lt;td&gt;&amp;nbsp;&lt;/td&gt;
+             &lt;td&gt;&amp;nbsp;&lt;/td&gt;
+             &lt;td&gt;&amp;nbsp;&lt;/td&gt;
+             &lt;td&gt;&amp;nbsp;&lt;/td&gt;
+             &lt;td&gt;&amp;nbsp;&lt;/td&gt;
+            &lt;/tr&gt;
+            &lt;tr&gt;
+             &lt;td&gt;
+              &lt;abbr Title="Comparing 2016 to 2017"&gt;Variance % ²&lt;/abbr&gt;
+             &lt;/td&gt;
+             &lt;td&gt;14%&lt;/td&gt;
+             &lt;td&gt;-17%&lt;/td&gt;
+             &lt;td&gt;3%&lt;/td&gt;
+             &lt;td&gt;-28%&lt;/td&gt;
+             &lt;td&gt;6%&lt;/td&gt;
+             &lt;td&gt;-15%&lt;/td&gt;
+             &lt;td&gt;21%&lt;/td&gt;
+             &lt;td&gt;&amp;nbsp;&lt;/td&gt;
+             &lt;td&gt;&amp;nbsp;&lt;/td&gt;
+             &lt;td&gt;&amp;nbsp;&lt;/td&gt;
+             &lt;td&gt;&amp;nbsp;&lt;/td&gt;
+             &lt;td&gt;&amp;nbsp;&lt;/td&gt;
+             &lt;td&gt;&amp;nbsp;&lt;/td&gt;
+            &lt;/tr&gt;
+            &lt;tr&gt;
+             &lt;td&gt;Q Average&lt;/td&gt;
+             &lt;td colspan="3" text-align="center"&gt;2016=154 / 2017=153&lt;/td&gt;
+             &lt;td colspan="3" text-align="center"&gt;2016=293 / 2017=261&lt;/td&gt;
+             &lt;td colspan=3 text-align="center"&gt;2016=227&lt;/td&gt;
+             &lt;td colspan="3" text-align="center"&gt; 2016=207&lt;/td&gt;
+             &lt;td&gt;&lt;/td&gt;
+            &lt;/tr&gt;
+           &lt;/tbody&gt;
+          &lt;/table&gt;</DataTrackingTable1>
+		<DataTrackingImage1/>
+	</FactDataRow>
+	<FactDataRow id="eco05">
+		<TabName>Economy</TabName>
+		<TabID>5</TabID>
+		<MetricID>5</MetricID>
+		<MetricName>Building permit review times</MetricName>
+		<MetricNamebg>#55504E</MetricNamebg>
+		<IndicatorIcon>image\economy.ico</IndicatorIcon>
+		<IndicatorMouseOverText>Economy</IndicatorMouseOverText>
+		<MeasureName>Permits reviewed within prescribed timeframes</MeasureName>
+		<MeasureNamebg>#55504E</MeasureNamebg>
+		<MetricStatus>Meets or Exceeds Target</MetricStatus>
+		<MetricStatusbg>#536E30</MetricStatusbg>
+		<MetricStatusImage>done</MetricStatusImage>
+		<MetricValue>98%</MetricValue>
+		<MetricValuebg>#536E30</MetricValuebg>
+		<ContactEmail>&lt;a href="mailto:building@guelph.ca"&gt;Building&lt;/a&gt;</ContactEmail>
+		<URLFactSheet>factsheet-eco-05</URLFactSheet>
+		<Lastupdate>2017-09-05T00:00:00.000</Lastupdate>
+		<Goal>To review building permit applications within the timelines prescribed in the Ontario Building Code.</Goal>
+		<MeasureDescription>The Ontario Building Code prescribes timelines for the review of building permit applications.  The timelines vary from 10 to 30 working days.
+
+Building Services has established an annual target of processing at least 95 per cent of building permit applications within their respective timelines.  The 95 per cent target has been the benchmark since 2013.</MeasureDescription>
+		<MeasureImportance>Building Services sets performance targets to measure how well customers’ needs are being met.  One of these targets includes measuring the percentage of building permit applications that are reviewed within provincially established timelines.
+
+Customers expect their building permit to be reviewed in a timely manner.  Having targetted timelines in place allows customers to create an appropriate schedule for their project.</MeasureImportance>
+		<ExplanationofPerformance>In 2016, the 95 per cent target for the review of building permit applications within their respective timelines were met in three of the four quarters.  The slight downturn in the last quarter of 2016 can be attributed to a transition and training period due to staffing vacancies.  Overall, the annual performance target of 95 per cent was met in 2016.
+
+A full complement of permit review staff at the start of 2017 has led to a very successful first half of the year.  2017 is currently on track to meet all established performance targets.</ExplanationofPerformance>
+		<DidYouKnow>Building permits are issued for applicable sizes and types of projects from a deck or shed, to a high-rise residential or large industrial building. Building permits are also issued for miscellaneous projects such as pools, hot tubs and permanent signs. Refer to the "Building Permits Issued" metric to see how many building permits the City issues.</DidYouKnow>
+		<UsefulLinks>&lt;a href="http://guelph.ca/building"&gt; Building Services&lt;/a&gt;</UsefulLinks>
+		<DataTrackingTitle1>Percentage of building permit applications being reviewed within prescribed timeframes</DataTrackingTitle1>
+		<DataTrackingTable1>&lt;div class="table-responsive"&gt;
+       &lt;table class="table table-bordered table-striped table-hover table-condensed"&gt;
+        &lt;thead&gt;
+         &lt;tr&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;Q1&lt;/th&gt;
+          &lt;th&gt;&amp;nbsp;&lt;/th&gt;
+          &lt;th&gt;Q2&lt;/th&gt;
+          &lt;th&gt;&amp;nbsp;&lt;/th&gt;
+          &lt;th&gt;Q3&lt;/th&gt;
+          &lt;th&gt;&amp;nbsp;&lt;/th&gt;
+          &lt;th&gt;Q4&lt;/th&gt;
+          &lt;th&gt;&amp;nbsp;&lt;/th&gt;
+          &lt;th&gt;YTD&lt;/th&gt;
+          &lt;th&gt;&amp;nbsp;&lt;/th&gt;
+         &lt;/tr&gt;
+        &lt;/thead&gt;
+        &lt;tbody&gt;
+         &lt;tr&gt;
+          &lt;td&gt;2017 Actual&lt;/td&gt;
+          &lt;td&gt;97%&lt;/td&gt;
+          &lt;td&gt;&amp;nbsp;&lt;/td&gt;
+          &lt;td&gt;99%&lt;/td&gt;
+          &lt;td&gt;&amp;nbsp;&lt;/td&gt;
+          &lt;td&gt;&amp;nbsp;&lt;/td&gt;
+          &lt;td&gt;&amp;nbsp;&lt;/td&gt;
+          &lt;td&gt;&amp;nbsp;&lt;/td&gt;
+          &lt;td&gt;&amp;nbsp;&lt;/td&gt;
+          &lt;td&gt;98%&lt;/td&gt;
+          &lt;td&gt;&amp;nbsp;&lt;/td&gt;
+         &lt;/tr&gt;
+         &lt;tr&gt;
+          &lt;td&gt;2016 Actual&lt;/td&gt;
+          &lt;td&gt;96%&lt;/td&gt;
+          &lt;td&gt;&amp;nbsp;&lt;/td&gt;
+          &lt;td&gt;98%&lt;/td&gt;
+          &lt;td&gt;&amp;nbsp;&lt;/td&gt;
+          &lt;td&gt;95%&lt;/td&gt;
+          &lt;td&gt;&amp;nbsp;&lt;/td&gt;
+          &lt;td&gt;90%&lt;/td&gt;
+          &lt;td&gt;&amp;nbsp;&lt;/td&gt;
+          &lt;td&gt;95%&lt;/td&gt;
+          &lt;td&gt;&amp;nbsp;&lt;/td&gt;
+         &lt;/tr&gt;
+         &lt;tr&gt;
+          &lt;td&gt;Variance&lt;/td&gt;
+          &lt;td&gt;1%&lt;/td&gt;
+          &lt;td&gt;&amp;nbsp;&lt;/td&gt;
+          &lt;td&gt;1%&lt;/td&gt;
+          &lt;td&gt;&amp;nbsp;&lt;/td&gt;
+          &lt;td&gt;&amp;nbsp;&lt;/td&gt;
+          &lt;td&gt;&amp;nbsp;&lt;/td&gt;
+          &lt;td&gt;&amp;nbsp;&lt;/td&gt;
+          &lt;td&gt;&amp;nbsp;&lt;/td&gt;
+          &lt;td&gt;&amp;nbsp;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+         &lt;/tr&gt;
+        &lt;/tbody&gt;
+       &lt;/table&gt;</DataTrackingTable1>
+		<DataTrackingImage1/>
+	</FactDataRow>
+	<FactDataRow id="fin01">
+		<TabName>Finance and Assets</TabName>
+		<TabID>6</TabID>
+		<MetricID>1</MetricID>
+		<MetricName>Credit rating</MetricName>
+		<MetricNamebg>#55504E</MetricNamebg>
+		<IndicatorIcon>image\finance.ico</IndicatorIcon>
+		<IndicatorMouseOverText>Finance and Assets</IndicatorMouseOverText>
+		<MeasureName>Credit rating report</MeasureName>
+		<MeasureNamebg>#55504E</MeasureNamebg>
+		<MetricStatus>Meets or Exceeds Target</MetricStatus>
+		<MetricStatusbg>#536E30</MetricStatusbg>
+		<MetricStatusImage>done</MetricStatusImage>
+		<MetricValue>AA+/Stable</MetricValue>
+		<MetricValuebg>#536E30</MetricValuebg>
+		<ContactEmail>&lt;a href="mailto:finance@guelph.ca"&gt;Finance&lt;/a&gt;</ContactEmail>
+		<URLFactSheet>factsheet-fin-01</URLFactSheet>
+		<Lastupdate>2017-09-05T00:00:00.000</Lastupdate>
+		<Goal>The City of Guelph strives to have a strong credit rating to demonstrate robust budgetary performance and low debt burden. A strong credit rating leads to lower borrowing rates when the City needs to take on external debt.</Goal>
+		<MeasureDescription>Every summer, the external third-party credit agency Standard &amp; Poor's Global performs an indepth review and analysis of the City of Guelph's economic and financial factors to make a final opinion on the credit rating.  The credit rating scale consists of:  AAA,AA,A,BBB,BB,B,CCC,CC,C,D.  AA-CCC ratings may be modified to include plus(+) or minus (-) to demonstrate  the standing within a specific scale.</MeasureDescription>
+		<MeasureImportance>This measure is important because it identifies the vigour of the Corporation's financial practices. Further, it provides an external third-party opinion on the City's past financial performance and its future financial outlook which gives the debt market confidence in investing in City debentures. The measure also provides accountability to the community and Council on the financial management of their public funds.</MeasureImportance>
+		<ExplanationofPerformance>The City of Guelph has earned a very favourable credit rating of AA+/Stable.  This credit rating has remained constant at this level since 2013 due to the City's exceptional liquidity, strong budgetary performance, and very low debt burden. The rating also reflects the positive impact Guelph's strong financial management has on its credit profile, and its low level of contingent liabilities.</ExplanationofPerformance>
+		<UsefulLinks>&lt;ul&gt;&lt;li&gt; &lt;a href="http://guelph.ca/2016/08/citys-credit-rating-remains-stable-aa-fourth-year/"&gt; City's credit rating remains at AA rating for fourth year&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href="http://www.standardandpoors.com/en_US/web/guest/home"&gt; S&amp;P rating information&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</UsefulLinks>
+		<DataTrackingTitle1/>
+		<DataTrackingTable1/>
+		<DataTrackingImage1/>
+	</FactDataRow>
+	<FactDataRow id="fin02">
+		<TabName>Finance and Assets</TabName>
+		<TabID>6</TabID>
+		<MetricID>2</MetricID>
+		<MetricName>Clean audit report</MetricName>
+		<MetricNamebg>#55504E</MetricNamebg>
+		<IndicatorIcon>image\finance.ico</IndicatorIcon>
+		<IndicatorMouseOverText>Finance and Assets</IndicatorMouseOverText>
+		<MeasureName>2016 external financial audit </MeasureName>
+		<MeasureNamebg>#55504E</MeasureNamebg>
+		<MetricStatus>Meets or Exceeds Target</MetricStatus>
+		<MetricStatusbg>#536E30</MetricStatusbg>
+		<MetricStatusImage>done</MetricStatusImage>
+		<MetricValue>Clean</MetricValue>
+		<MetricValuebg>#536E30</MetricValuebg>
+		<ContactEmail>&lt;a href="mailto:finance@guelph.ca"&gt;Finance&lt;/a&gt;</ContactEmail>
+		<URLFactSheet>factsheet-fin-02</URLFactSheet>
+		<Lastupdate>2017-09-05T00:00:00.000</Lastupdate>
+		<Goal>The City of Guelph strives to have an annual clean audit report.</Goal>
+		<MeasureDescription>Annually, the City undergoes an external financial statement audit in order to meet Municipal Act legislation, grant funding requirements and debt covenant obligations.</MeasureDescription>
+		<MeasureImportance>This measure is important because it provides an external opinion that the City's financial statements present fairly in accordance with the appropriate accounting standards and that they are free from material misstatement.   This provides confidence to Council, the community and other financial stakeholders that the City's financial management and financial policies are strong and operating effectively.</MeasureImportance>
+		<ExplanationofPerformance>The City has earned a clean audit report for the 2016 Financial Statements.</ExplanationofPerformance>
+		<DidYouKnow>The City’s audited financial statements include the City’s operations, two  wholly-owned corporations (Guelph Municipal Holdings Inc. &amp; Guelph Junction Railway Limited), four local boards (Guelph Police Services Board, Guelph Public Library Board, The Elliott Community and The Downtown Guelph Business Association) and one government partnership (the City’s share of the Wellington-Dufferin-Guelph Public Health Unit).</DidYouKnow>
+		<UsefulLinks>&lt;a href="http://guelph.ca/city-hall/budget-and-finance/2647-2/"&gt;Budget and finance&lt;/a&gt;</UsefulLinks>
+		<DataTrackingTitle1/>
+		<DataTrackingTable1/>
+		<DataTrackingImage1/>
+	</FactDataRow>
+	<FactDataRow id="fin03">
+		<TabName>Finance and Assets</TabName>
+		<TabID>6</TabID>
+		<MetricID>3</MetricID>
+		<MetricName>Sustainable asset investment</MetricName>
+		<MetricNamebg>#55504E</MetricNamebg>
+		<IndicatorIcon>image\finance.ico</IndicatorIcon>
+		<IndicatorMouseOverText>Finance and Assets</IndicatorMouseOverText>
+		<MeasureName>Reinvestment rate in 2017</MeasureName>
+		<MeasureNamebg>#CFCFD0</MeasureNamebg>
+		<MetricStatus>Needs Improvement</MetricStatus>
+		<MetricStatusbg>#ed1c24</MetricStatusbg>
+		<MetricStatusImage>clear</MetricStatusImage>
+		<MetricValue>74%</MetricValue>
+		<MetricValuebg>#ed1c24</MetricValuebg>
+		<ContactEmail>&lt;a href="mailto:assets@guelph.ca"&gt;Asset Management&lt;/a&gt;</ContactEmail>
+		<URLFactSheet>factsheet-fin-03</URLFactSheet>
+		<Lastupdate>2017-09-05T00:00:00.000</Lastupdate>
+		<Goal>Maintain a level of sustainable investment for the City’s assets at or above 100%.</Goal>
+		<MeasureDescription>Sustainable asset investment measures the extent to which the City is reinvesting in its existing infrastructure compared to the amount of reinvestment needed to bring infrastructure to an acceptable condition. For example, within the City’s road network, a number of segments reach the end of their life each year and require reconstruction. If the asset investment sustainability is below 100%, it means that not all of the roads that require reconstruction can be funded, and so some of them become part of the investment backlog. The condition of these roads continues worsen, resulting in more potholes, cracks and a rougher driving experience. If the asset investment sustainability stays below 100% for multiple years, then the backlog continues to grow, resulting in lower service levels and increased risks.&lt;br /&gt;
+The measure is the three-year rolling average of the ratio of the actual capital infrastructure renewal expenditure divided by the required capital infrastructure renewal expenditure. The actual renewal expenditures come from the Capital Budget each year. &lt;br /&gt;
+A ratio of 100% or greater indicates the actual renewal investment in infrastructure equals or exceeds the recommended renewal investment. A result of 100% is generally positive for the City. It suggests the right investment at the right time. &lt;br /&gt;
+Whereas a ratio of less than 100% indicates the actual renewal expenditures are insufficient to meet the specified levels of performance. This may eventually lead to lower levels of service and increases the rehabilitation costs in the future.</MeasureDescription>
+		<MeasureImportance>The measure summarizes the City’s renewal investment trends and provides useful information for long-range financial planning, short-term improvement programs or public budgeting decisions. Effective renewal extends the life of assets, allowing them to perform as intended—saving the City money over the long term. The measure can help show how decisions made today will dictate the future state and condition of City infrastructure assets.</MeasureImportance>
+		<ExplanationofPerformance>Current results indicate the City’s 2017 infrastructure investment was at approximately 69% of what is fully sustainable. This suggests that 2017 funded renewal expenditures did not match renewal requirements; however the investment 3-year rolling average shows some improvement annually since 2014. Through the capital planning process, the City ensures that the projects proposed strike the best possible balance between the levels of service provided, managing risks, and ensuring the lowest total lifecycle costs. Currently, various studies are being completed to quantify the impacts that maintaining the current funding levels will have on service and risks within the City. This work will further inform the capital budget process, to ensure that while funding may be below 100% sustainable, the funding is being allocated to the projects that provide the most overall value to the community.</ExplanationofPerformance>
+		<DidYouKnow>The measure provides a summary of the City's renewal investment trends. It also provides useful information for long-range financial planning, short-term improvement programs or public budgeting decisions. Effective renewal extends the life of assets and allows assets to perform as they are intended - saving the City money over the long term. Use of the measure can help show how decisions made today will dictate the future state and condition of City infrastructure assets.</DidYouKnow>
+		<UsefulLinks>&lt;a href="http://guelph.ca/assets"&gt;Asset Management&lt;/a&gt;</UsefulLinks>
+		<DataTrackingTitle1>City rolling asset investment sustainability tracking</DataTrackingTitle1>
+		<DataTrackingTable1>&lt;div class="table-responsive"&gt;
+&lt;table class="table table-bordered table-striped table-hover table-condensed"&gt;
+&lt;thead&gt;&lt;tr&gt;&lt;th&gt;&lt;/th&gt;&lt;th&gt;2012*&lt;/th&gt;&lt;th&gt;2013**&lt;/th&gt;&lt;th&gt;2014&lt;/th&gt;&lt;th&gt;2015&lt;/th&gt;&lt;th&gt;2016&lt;/th&gt;&lt;th&gt;2017&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;Actual&lt;/td&gt;&lt;td&gt;58%&lt;/td&gt;&lt;td&gt;39%&lt;/td&gt;&lt;td&gt;62%&lt;/td&gt;&lt;td&gt;82%&lt;/td&gt;&lt;td&gt;71%&lt;/td&gt;&lt;td&gt;69%&lt;/td&gt;&lt;/tr&gt;
+ &lt;tr&gt;&lt;td&gt;3-Year Rolling Average&lt;/td&gt;&lt;td&gt;58%&lt;/td&gt;&lt;td&gt;49%&lt;/td&gt;&lt;td&gt;53%&lt;/td&gt;&lt;td&gt;61%&lt;/td&gt;&lt;td&gt;72%&lt;/td&gt;&lt;td&gt;74%&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Target&lt;/td&gt;&lt;td&gt;100%&lt;/td&gt;&lt;td&gt;100%&lt;/td&gt;&lt;td&gt;100%&lt;/td&gt;&lt;td&gt;100%&lt;/td&gt;&lt;td&gt;100%&lt;/td&gt;&lt;td&gt;100%&lt;/td&gt;&lt;/tr&gt;
+ &lt;tr&gt;&lt;td&gt;Variance %&lt;/td&gt;&lt;td&gt;-41.6%&lt;/td&gt;&lt;td&gt;-51.4%&lt;/td&gt;&lt;td&gt;-46.8%&lt;/td&gt;&lt;td&gt;-38.8%&lt;/td&gt;&lt;td&gt;-28.2%&lt;/td&gt;&lt;td&gt;-25.9%&lt;/td&gt;&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</DataTrackingTable1>
+		<DataTrackingImage1>ChartCityAssetInvestmentSustainability.jpg</DataTrackingImage1>
+	</FactDataRow>
+	<FactDataRow id="fin04">
+		<TabName>Finance and Assets</TabName>
+		<TabID>6</TabID>
+		<MetricID>4</MetricID>
+		<MetricName>Complex capital projects </MetricName>
+		<MetricNamebg>#55504E</MetricNamebg>
+		<IndicatorIcon>image\finance.ico</IndicatorIcon>
+		<IndicatorMouseOverText>Finance and Assets</IndicatorMouseOverText>
+		<MeasureName>Quarterly reporting - tier 1 capital projects</MeasureName>
+		<MeasureNamebg>#55504E</MeasureNamebg>
+		<MetricStatus>Meets or Exceeds Target</MetricStatus>
+		<MetricStatusbg>#536E30</MetricStatusbg>
+		<MetricStatusImage>done</MetricStatusImage>
+		<MetricValue>All reported</MetricValue>
+		<MetricValuebg>#536E30</MetricValuebg>
+		<ContactEmail>&lt;a href="mailto:projectmanagement@guelph.ca"&gt;Corporate Project Management Office&lt;/a&gt;</ContactEmail>
+		<URLFactSheet>factsheet-fin-04</URLFactSheet>
+		<Lastupdate>2017-09-08T00:00:00.000</Lastupdate>
+		<Goal>To analyse progress each month according to corporate project management standards of the City’s tier 1 complex capital projects (those with highest risk) against the original budget, schedule and scope; and report to Council and the community each quarter.</Goal>
+		<MeasureDescription>Monthly internal reporting that applies the corporate project management standards to track and evaluate the performance of each tier 1 project’s construction, finances and timelines, which is then reported out to the community every three months. </MeasureDescription>
+		<MeasureImportance>The way Guelph’s capital projects are managed has evolved to improve planning and oversight through more rigorous project and risk management practices to ensure large-scale construction projects are well-managed.  Greater governance, oversight, communications and reporting of Guelph’s capital projects are a reflection of our commitment to be more accountable and transparent.  The City’s Corporate Project Management Office (CPMO) is leading this work based on recommendations from Deloitte’s Capital Projects Risk Assessment and strategic advice from the City’s internal Complex Capital Projects Committee.</MeasureImportance>
+		<ExplanationofPerformance>Detailed performance reporting on tier 1 projects’ scope, budgets and schedules are internally measured against project metrics and milestones each month. The overall scope, budget and schedule status is reported quarterly. &lt;br /&gt; The City started reporting on all tier 1 projects that are in progress, in June 2016 and to date has delivered on all targeted reports, as of September 2017.</ExplanationofPerformance>
+		<DidYouKnow>The City of Guelph has 117 construction projects underway and planned for 2017, totalling over $250 million. These projects have been categorized into three tiers based on the level of risk and a number of other factors, &lt;a href="http://guelph.ca/living/construction-projects/capital-projects/"&gt;read more&lt;/a&gt;. There are currently three tier 1 projects—Guelph Police Headquarters renovation, Victoria Road Recreation Centre renovation, and Wilson Street reconstruction and parkade.</DidYouKnow>
+		<UsefulLinks>&lt;a href="http://guelph.ca/living/construction-projects/capital-projects/"&gt;Capital Projects&lt;/a&gt;</UsefulLinks>
+		<DataTrackingTitle1>Report tracking</DataTrackingTitle1>
+		<DataTrackingTable1>&lt;div class="table-responsive"&gt;
+&lt;table class="table table-bordered table-striped table-hover table-condensed"&gt;
+&lt;thead&gt;&lt;tr&gt;&lt;th&gt;&lt;/th&gt;&lt;th&gt;Jan&lt;/th&gt;&lt;th&gt;Feb&lt;/th&gt;&lt;th&gt;Mar&lt;/th&gt;&lt;th&gt;Apr&lt;/th&gt;&lt;th&gt;May&lt;/th&gt;&lt;th&gt;Jun&lt;/th&gt;&lt;th&gt;Jul&lt;/th&gt;&lt;th&gt;Aug&lt;/th&gt;&lt;th&gt;Sep&lt;/th&gt;&lt;th&gt;Oct&lt;/th&gt;&lt;th&gt;Nov&lt;/th&gt;&lt;th&gt;Dec&lt;/th&gt;&lt;th&gt;YTD Avg&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;
+ &lt;tr&gt;&lt;td&gt;2017 Actual&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;100%&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;100%&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;100%&lt;/td&gt;&lt;/tr&gt;
+ &lt;tr&gt;&lt;td&gt;2017 Target&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;100%&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;100%&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;100%&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;
+ &lt;tr&gt;&lt;td&gt;2016 Actual&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;100%&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;100%&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;100%&lt;/td&gt;&lt;td&gt;100.0%&lt;/td&gt;&lt;/tr&gt;
+ &lt;tr&gt;&lt;td&gt;2016 Target&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;100%&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;100%&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;100%&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Variance&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;</DataTrackingTable1>
+		<DataTrackingImage1/>
+	</FactDataRow>
+	<FactDataRow id="fin05">
+		<TabName>Finance and Assets</TabName>
+		<TabID>6</TabID>
+		<MetricID>5</MetricID>
+		<MetricName>Value for tax dollars</MetricName>
+		<MetricNamebg>#55504E</MetricNamebg>
+		<IndicatorIcon>image\finance.ico</IndicatorIcon>
+		<IndicatorMouseOverText>Finance and Assets</IndicatorMouseOverText>
+		<MeasureName>Residents who believe they receive good value for tax dollars</MeasureName>
+		<MeasureNamebg>#55504E</MeasureNamebg>
+		<MetricStatus>Collecting data</MetricStatus>
+		<MetricStatusbg>#0e55ac</MetricStatusbg>
+		<MetricStatusImage>cached</MetricStatusImage>
+		<MetricValue>80%</MetricValue>
+		<MetricValuebg>#0e55ac</MetricValuebg>
+		<ContactEmail>&lt;a href="mailto:cao@guelph.ca"&gt;Office of the CAO&lt;/a&gt;</ContactEmail>
+		<URLFactSheet>factsheet-fin-05</URLFactSheet>
+		<Lastupdate>2017-09-11T00:00:00.000</Lastupdate>
+		<Goal>The City of Guelph strives to deliver exceptional value and quality of service to its residents.</Goal>
+		<MeasureDescription>City of Guelph residents were surveyed in 2017 on the question "Thinking about all of the programs and services you receive from the City of Guelph, would you say that overall you get a good value or poor value for your tax dollars?" </MeasureDescription>
+		<MeasureImportance>This question is important for the City to know if people feel money is managed well and good value is received for taxes.</MeasureImportance>
+		<ExplanationofPerformance>Eight in ten (80%) of residents believe that they receive good value for their tax dollars. Moreover, the proportion who think that they get "very good" value is four times greater than the number who think it is "very poor" (21% vs 5%). The City of Guelph is on par with the National Norm at 81%.</ExplanationofPerformance>
+		<DidYouKnow>Large majorities of residents across all demographics think they receive good value for their tax dollars.</DidYouKnow>
+	</FactDataRow>
+	<FactDataRow id="cs01">
+		<TabName>Customer Service</TabName>
+		<TabID>7</TabID>
+		<MetricID>1</MetricID>
+		<MetricName>City Service Satisfaction</MetricName>
+		<MetricNamebg>#55504E</MetricNamebg>
+		<IndicatorIcon>image\service.ico</IndicatorIcon>
+		<IndicatorMouseOverText>Customer Service</IndicatorMouseOverText>
+		<MeasureName>Residents overall satisfied with delivery of services by the City</MeasureName>
+		<MeasureNamebg>#CFCFD0</MeasureNamebg>
+		<MetricStatus>Collecting data</MetricStatus>
+		<MetricStatusbg>#0e55ac</MetricStatusbg>
+		<MetricStatusImage>cached</MetricStatusImage>
+		<MetricValue>88%</MetricValue>
+		<MetricValuebg>#0e55ac</MetricValuebg>
+		<ContactEmail>&lt;a href="mailto:cao@guelph.ca"&gt;Office of the CAO&lt;/a&gt;</ContactEmail>
+		<URLFactSheet>factsheet-cs-01</URLFactSheet>
+		<Lastupdate>2017-09-11T00:00:00.000</Lastupdate>
+		<Goal>The City of Guelph is committed to excellence in service delivery.</Goal>
+		<MeasureDescription>City of Guelph residents were surveyed in 2017 on the question "Overall, how satisfied are you with the delivery of services provided by the City of Guelph?" </MeasureDescription>
+		<MeasureImportance>Overall satisfaction with services is an important indicator for the organization to show how satisfied people are with their overall service experience.</MeasureImportance>
+		<ExplanationofPerformance>When asked "Overall, how satisfied are you with the delivery of services provided by the City of Guelph?" 26% reported they were very satisfied, 62% reported they were somewhat satisfied, 8% said they were not very satisfied and 2% were not at all satisfied. 2% of respondents didn't know their level of satisfaction. </ExplanationofPerformance>
+		<DidYouKnow>City of Guelph is just below the national norm at 92%.</DidYouKnow>
+	</FactDataRow>
+	<FactDataRow id="cs02">
+		<TabName>Customer Service</TabName>
+		<TabID>7</TabID>
+		<MetricID>2</MetricID>
+		<MetricName>Quality of Customer Service</MetricName>
+		<MetricNamebg>#55504E</MetricNamebg>
+		<IndicatorIcon>image\service.ico</IndicatorIcon>
+		<IndicatorMouseOverText>Customer Service</IndicatorMouseOverText>
+		<MeasureName>Percent residents satisfied with overall quality of customer service</MeasureName>
+		<MeasureNamebg>#CFCFD0</MeasureNamebg>
+		<MetricStatus>Collecting data</MetricStatus>
+		<MetricStatusbg>#0e55ac</MetricStatusbg>
+		<MetricStatusImage>cached</MetricStatusImage>
+		<MetricValue>85%</MetricValue>
+		<MetricValuebg>#0e55ac</MetricValuebg>
+		<ContactEmail>&lt;a href="mailto:cao@guelph.ca"&gt;Office of the CAO&lt;/a&gt;</ContactEmail>
+		<URLFactSheet>factsheet-cs-02</URLFactSheet>
+		<Lastupdate>2017-09-11T00:00:00.000</Lastupdate>
+		<Goal>The City of Guelph aims to deliver quality customer service across all programs and services.</Goal>
+		<MeasureDescription>City of Guelph residents were surveyed in 2017 on the question "Thinking about your most recent contact with a City of Guelph staff or employee in the past 12 months, how satisfied are you with the overall quality of service you received?" </MeasureDescription>
+		<MeasureImportance>A strong customer service score means we are thinking of our citizens first and that we are dedicated to customer service including courtesy, fair treatment, speed, timeliness and going the extra mile.</MeasureImportance>
+		<ExplanationofPerformance>When asked "Thinking about your most recent contact with a City of Guelph staff or employee in the past 12 months, how satisfied are you with the overall quality of service you received?" 57% of respondents replied they were very satisfied, 28% responded somewhat satisfied and 9% said they were somewhat dissatisfied, 6% reported being very dissatisfied. </ExplanationofPerformance>
+		<DidYouKnow>City of Guelph overall satisfaction with service received from a City of Guelph employee is 3% higher than the national norm.</DidYouKnow>
+	</FactDataRow>
+</FactDataTable>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<MetricDataTable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<MetricDataRow>
+		<TabID>3</TabID>
+		<TabName>Environment</TabName>
+		<MetricID>1</MetricID>
+		<MetricName>Energy management</MetricName>
+		<MetricNamebg>#55504E</MetricNamebg>
+		<IndicatorIcon>image\environment.ico</IndicatorIcon>
+		<IndicatorMouseOverText>Environment</IndicatorMouseOverText>
+		<MeasureName>kWhe energy consumption reduced per person</MeasureName>
+		<MeasureNamebg>#CFCFD0</MeasureNamebg>
+		<MetricValue>329</MetricValue>
+		<MetricUnit>kWhe per person</MetricUnit>
+		<MetricValuebg>#536E30</MetricValuebg>
+		<MetricStatus>Meets or Exceeds Target</MetricStatus>
+		<MetricStatusbg>#536E30</MetricStatusbg>
+		<MetricStatusImage>done</MetricStatusImage>
+		<URLFactSheet>factsheet-env-01</URLFactSheet>
+		<Lastupdate>2017-09-05T00:00:00.000</Lastupdate>
+	</MetricDataRow>
+	<MetricDataRow>
+		<TabID>3</TabID>
+		<TabName>Environment</TabName>
+		<MetricID>2</MetricID>
+		<MetricName>Daily water use</MetricName>
+		<MetricNamebg>#55504E</MetricNamebg>
+		<IndicatorIcon>image\environment.ico</IndicatorIcon>
+		<IndicatorMouseOverText>Environment</IndicatorMouseOverText>
+		<MeasureName>Litres of water used per person per day</MeasureName>
+		<MeasureNamebg>#CFCFD0</MeasureNamebg>
+		<MetricValue>167</MetricValue>
+		<MetricUnit>Litres per person per day</MetricUnit>
+		<MetricValuebg>#0e55ac</MetricValuebg>
+		<MetricStatus>Collecting data</MetricStatus>
+		<MetricStatusbg>#0e55ac</MetricStatusbg>
+		<MetricStatusImage>cached</MetricStatusImage>
+		<ContactEmail>waterservices@guelph.ca</ContactEmail>
+		<URLFactSheet>factsheet-env-02</URLFactSheet>
+		<Lastupdate>2017-09-05T00:00:00.000</Lastupdate>
+	</MetricDataRow>
+	<MetricDataRow>
+		<TabID>3</TabID>
+		<TabName>Environment</TabName>
+		<MetricID>3</MetricID>
+		<MetricName>Water production trend</MetricName>
+		<MetricNamebg>#55504E</MetricNamebg>
+		<IndicatorIcon>image\environment.ico</IndicatorIcon>
+		<IndicatorMouseOverText>Environment</IndicatorMouseOverText>
+		<MeasureName>Cubic metres of clean water produced</MeasureName>
+		<MeasureNamebg>#CFCFD0</MeasureNamebg>
+		<MetricValue>16,940,220</MetricValue>
+		<MetricUnit>Cubic meters</MetricUnit>
+		<MetricValuebg>#0e55ac</MetricValuebg>
+		<MetricStatus>Collecting data</MetricStatus>
+		<MetricStatusbg>#0e55ac</MetricStatusbg>
+		<MetricStatusImage>cached</MetricStatusImage>
+		<ContactEmail>waterservices@guelph.ca</ContactEmail>
+		<URLFactSheet>factsheet-env-03</URLFactSheet>
+		<Lastupdate>2017-09-05T00:00:00.000</Lastupdate>
+	</MetricDataRow>
+	<MetricDataRow>
+		<TabID>3</TabID>
+		<TabName>Environment</TabName>
+		<MetricID>4</MetricID>
+		<MetricName>Water reduction target</MetricName>
+		<MetricNamebg>#55504E</MetricNamebg>
+		<IndicatorIcon>image\environment.ico</IndicatorIcon>
+		<IndicatorMouseOverText>Environment</IndicatorMouseOverText>
+		<MeasureName>Litres reduced in daily water production</MeasureName>
+		<MeasureNamebg>#CFCFD0</MeasureNamebg>
+		<MetricValue>4,887</MetricValue>
+		<MetricUnit>Litres</MetricUnit>
+		<MetricValuebg>#0e55ac</MetricValuebg>
+		<MetricStatus>Collecting data</MetricStatus>
+		<MetricStatusbg>#0e55ac</MetricStatusbg>
+		<MetricStatusImage>cached</MetricStatusImage>
+		<ContactEmail>waterservices@guelph.ca</ContactEmail>
+		<URLFactSheet>factsheet-env-04</URLFactSheet>
+		<Lastupdate>2017-09-05T00:00:00.000</Lastupdate>
+	</MetricDataRow>
+	<MetricDataRow>
+		<TabID>3</TabID>
+		<TabName>Environment</TabName>
+		<MetricID>5</MetricID>
+		<MetricName>Landfill diversion</MetricName>
+		<MetricNamebg>#55504E</MetricNamebg>
+		<IndicatorIcon>image\environment.ico</IndicatorIcon>
+		<IndicatorMouseOverText>Environment</IndicatorMouseOverText>
+		<MeasureName>Residential waste diverted from landfill</MeasureName>
+		<MeasureNamebg>#CFCFD0</MeasureNamebg>
+		<MetricValue>59%</MetricValue>
+		<MetricUnit>recycled</MetricUnit>
+		<MetricValuebg>#ED1C24</MetricValuebg>
+		<MetricStatus>Needs Improvement</MetricStatus>
+		<MetricStatusbg>#ED1C24</MetricStatusbg>
+		<MetricStatusImage>clear</MetricStatusImage>
+		<ContactEmail>waste@guelph.ca</ContactEmail>
+		<URLFactSheet>factsheet-env-05</URLFactSheet>
+		<Lastupdate>2017-09-05T00:00:00.000</Lastupdate>
+	</MetricDataRow>
+</MetricDataTable>
