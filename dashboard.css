@@ -332,5 +332,22 @@ cursor: pointer;
 transition: 200ms ease-in-out;
 }
 
+.icon-container {
+   margin-top: 10px;
+}
+
+.icon-container .data-action-icon-sm {
+    height: 30px;
+    width: 30px;
+    background: #000;
+    display: inline-block;
+    vertical-align: middle;
+}
+.icon-container .icon-content {
+    display: inline-block;
+    vertical-align: middle;
+margin-top:7px;
+}
+
 
 
